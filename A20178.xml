@@ -1,0 +1,1881 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The secrets of angling Teaching, the choisest tooles baytes and seasons, for the taking of any fish, in pond or riuer: practised and familiarly opened in three bookes. By I.D. Esquire.</title>
+            <author>Dennys, John, d. 1609.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1613</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 76 KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20178</idno>
+            <idno type="STC">STC 6611</idno>
+            <idno type="STC">ESTC S113570</idno>
+            <idno type="EEBO-CITATION">99848803</idno>
+            <idno type="PROQUEST">99848803</idno>
+            <idno type="VID">13919</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20178)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 13919)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 679:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The secrets of angling Teaching, the choisest tooles baytes and seasons, for the taking of any fish, in pond or riuer: practised and familiarly opened in three bookes. By I.D. Esquire.</title>
+                  <author>Dennys, John, d. 1609.</author>
+               </titleStmt>
+               <extent>[62] p.   </extent>
+               <publicationStmt>
+                  <publisher>[T. Snodham] for R. Jackson,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1613]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>I.D. = John Dennys.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>Woodcut title vignette.</note>
+                  <note>In verse.</note>
+                  <note>E4, final leaf, is blank.</note>
+                  <note>Signatures: A⁴ B-D E⁴ (-A1, blank?).</note>
+                  <note>Imperfect; A2, title page, shaved, with loss of imprint (supplied by STC).</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fishing --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:13919:1" rendition="simple:additions"/>
+            <pb facs="tcp:13919:1" rendition="simple:additions"/>
+            <p>THE Secrets of Angling.</p>
+            <p>TEACHING, The choiſeſt Tooles<g ref="char:punc">▪</g> Baytes and ſeaſons, for the taking of any Fiſh, in Pond or Riuer: practiſed and famili<g ref="char:EOLhyphen"/>arly opened in three Bookes.</p>
+            <p>By <hi>I. D.</hi> Eſquire.</p>
+            <figure>
+               <sp>
+                  <l>Well fayre the pleſure</l>
+                  <l>that bringes ſuch treaſure</l>
+               </sp>
+               <sp>
+                  <l>Hold hooke and line</l>
+                  <l>then all is mine</l>
+               </sp>
+            </figure>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:13919:2"/>
+            <pb facs="tcp:13919:2"/>
+            <head>TO THE WORTHY, AND MY MVCH RESPEC<g ref="char:EOLhyphen"/>TED FRIEND, M<hi rend="sup">r</hi>. IOHN HARBORNE, of <hi>Tackley,</hi> in the Countie of <hi>Oxford,</hi> Eſquire.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Orthy Syr, this Poeme being ſent vnto me to be printed after the death of the Author, who intended to haue done it in his life, but was preuented by death: I could not among my good friends, be<g ref="char:EOLhyphen"/>thinke me of any one to whom I might more fitly dedicate it (as well for the nature of the ſubiect in which you delight as to expreſſe my loue) than to your ſelfe. I finde it not onely ſauouring of Art and Honeſty, two things now ſtrangers vnto many Authors, but alſo both pleaſant and profitable; and being loath to ſee a thing of ſuch value lye hid<g ref="char:EOLhyphen"/>den in obſcuritie, whileſt matters of no moment peſter the ſtales of euery <hi>STATIONER;</hi> I therefore make bolde to publiſh it, for the benefit and delight of all, truſting that I ſhall neither thereby diſpa<g ref="char:EOLhyphen"/>rage
+<pb facs="tcp:13919:3"/>the Author, nor diſlike them. I neede not, I think, Appollogize either the vſe of the ſubiect, or for that it is reduced into the nature of a Poeme; for as touching the laſt (in that it is in verſe) ſome count it by ſo much the more delightfull; and I holde it euery way as fit a ſubiect for Poetry as Husbandry: and touching the firſt, if Hunting &amp; Hawking haue beene thought worthy delights and Artes to be inſtructed in, I make no doubt but this Art of <hi>Angling</hi> is much more worthy pra<g ref="char:EOLhyphen"/>ctiſe and approbation; for it is a ſport euery way as pleaſant, leſſe chargeable, more profitable, and nothing ſo much ſubiect to choller or impatience as thoſe are: you ſhall finde it more briefly, plea<g ref="char:EOLhyphen"/>ſantly, &amp; more exactly performed, then any of this kinde heretofore. Therefore I referre you to the peruſing thereof, and my ſelfe to your good opinion, which I tender as that I holde moſt deere; euer re<g ref="char:EOLhyphen"/>maining at</p>
+            <closer>
+               <signed>your gentle Command, <hi>R. I.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:13919:3"/>
+            <head>In due praiſe of this Praiſe-worthy <hi>Skill</hi> and <hi>Worke.</hi>
+            </head>
+            <lg>
+               <l>IN <hi>skils</hi> that <hi>all</hi> doeſeeke, but <hi>few</hi> doe <hi>finde,</hi>
+               </l>
+               <l>Both <hi>gaine</hi> and <hi>game;</hi> (like <hi>Sunne</hi> and <hi>Moone</hi> doe ſhine,</l>
+               <l>Then th' <hi>Art</hi> of <hi>Fiſhing</hi> thus, is of that kinde;</l>
+               <l>The <hi>Angler</hi> taketh both with <hi>Hooke</hi> and <hi>Line.</hi>
+               </l>
+               <l>And as, with <hi>Lines,</hi> both theſe he takes; this takes,</l>
+               <l>With many a <hi>Line,</hi> well made, both <hi>Eares</hi> and <hi>Harts,</hi>
+               </l>
+               <l>And, by this <hi>skill,</hi> the skill-leſſe skill-full makes:</l>
+               <l>The <hi>Corpes</hi> whereof diſcected ſo he parts,</l>
+               <l>Vpon an humble <hi>Subiect</hi> neuer lay</l>
+               <l>More proude, yet plainer <hi>Lines,</hi> the <hi>plaine</hi> to leade,</l>
+               <l>This playner <hi>Art</hi> with <hi>pleaſure</hi> to ſuruay,</l>
+               <l>To purchaſe it, with <hi>profit,</hi> by that <hi>DEED:</hi>
+               </l>
+               <l>Who thinke this <hi>skill</hi>'s too <hi>low</hi> than, for the <hi>high,</hi>
+               </l>
+               <l>This <hi>Angler</hi> reade, and they'l be <hi>tane</hi> thereby.</l>
+            </lg>
+            <byline>Io. Dauies.</byline>
+         </div>
+         <div type="summary">
+            <pb facs="tcp:13919:4"/>
+            <head>The Contents.</head>
+            <list>
+               <head>The firſt Booke containeth theſe 3. heads.</head>
+               <item>1 THe antiquitie of <hi>Angling,</hi> with the Art of Fi<g ref="char:EOLhyphen"/>ſhing, and of Fiſh in generall.</item>
+               <item>2 The lawfulneſſe, pleaſure, and profit thereof, with all Obiections, anſwered, againſt it.</item>
+               <item>3 To know the ſeaſon, and times to prouide the Tooles, and how to chooſe the beſt, and the manner how to make them fit to take each ſeuerall Fiſh.</item>
+            </list>
+            <list>
+               <head>The ſecond Booke, containeth</head>
+               <item>1 THe <hi>Anglers</hi> experience, how to vſe his Tooles and Baytes, to make profit by his game.</item>
+               <item>2 What Fiſh is not taken with Angle, and what is: and which is beſt for health.</item>
+               <item>3 In what Waters and Riuers to finde each Fiſh.</item>
+            </list>
+            <list>
+               <head>The third Booke containeth,</head>
+               <item>1 THe 12. vertues and qualities which ought to be in euery Angler.</item>
+               <item>2 What weather, ſeaſons, and times of the yeere is beſt and worſt, and what houres of the day is beſt for ſport.</item>
+               <item>3 To know each Fiſhes haunt, and the times to take them.</item>
+               <item>Alſo, an obſcure ſecret, of an approued Bait, tending thereunto.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:13919:4"/>
+            <head>THE SECRETS of Angling.</head>
+            <div n="1" type="book">
+               <head>The firſt Booke.</head>
+               <lg>
+                  <l>
+                     <seg rend="decorInit">O</seg>F <hi>Angling,</hi> and the Art thereof I ſing,</l>
+                  <l>What kinde of Tooles it doth behoue to haue;</l>
+                  <l>And with what pleaſing bayt a man may bring</l>
+                  <l>The Fiſh to bite within the watry waue.</l>
+                  <l>A worke of thankes to ſuch as in a thing</l>
+                  <l>Of harmleſſe pleaſure, haue regard to ſaue</l>
+                  <l>Their deareſt ſoules from ſinne; and may intend</l>
+                  <l>Of pretious time, ſome part thereon to ſpend.</l>
+               </lg>
+               <lg>
+                  <l>You <hi>Nymphs</hi> that in the Springs and Waters ſweet,</l>
+                  <l>Your dwelling haue, of euery Hill and Dale,</l>
+                  <l>And oft amidſt the Meadowes greene doe meet,</l>
+                  <l>To ſport and play, and heare the <hi>Nightingale;</hi>
+                  </l>
+                  <l>And in the Riuers freſh doe waſh your feet,</l>
+                  <l>While <hi>Prognes</hi> ſiſter tels her wofull tale:</l>
+                  <l>Such ayde and power vnto my verſes lend,</l>
+                  <l>As may ſuffice this little vvorke to end.</l>
+               </lg>
+               <pb facs="tcp:13919:5"/>
+               <lg>
+                  <l>And thou ſweet
+<note n="*" place="margin">The name of a Brooke.</note> 
+                     <hi>Boyd</hi> that with thy watry ſway,</l>
+                  <l>Doſt waſh the cliffes of <hi>Deington</hi> and of <hi>Weeke;</hi>
+                  </l>
+                  <l>And through their Rockes with crooked winding way,</l>
+                  <l>Thy mother <hi>Auon</hi> runneſt ſoft to ſeeke:</l>
+                  <l>In whoſe fayre ſtreames the ſpeckled <hi>Trout</hi> doth play,</l>
+                  <l>The <hi>Roche,</hi> the <hi>Dace,</hi> the <hi>Gudgin,</hi> and the <hi>Bleeke.</hi>
+                  </l>
+                  <l>Teach me the skill with ſlender Line and Hooke</l>
+                  <l>To take each Fiſh of Riuer, Pond, and Brooke.</l>
+               </lg>
+               <lg>
+                  <head>The time for prouiding Angle Rods.</head>
+                  <l>FIrſt, when the Sunne beginneth to decline</l>
+                  <l>Southward his courſe, with his fayre Chariot bright,</l>
+                  <l>And paſſed hath of Heauen the middle Line,</l>
+                  <l>That makes of equall length both day and night;</l>
+                  <l>And left behind his backe the dreadfull ſigne,</l>
+                  <l>Of cruell <hi>Centaure,</hi> ſlaine in drunken fight,</l>
+                  <l>When Beaſts do mourne, and Birds forſake their ſong,</l>
+                  <l>And euery Creature thinkes the night too long.</l>
+               </lg>
+               <lg>
+                  <l>And bluſtring <hi>Boreas</hi> with his chilling cold,</l>
+                  <l>Vnclothed hath the Trees of Sommers greene;</l>
+                  <l>And Woods, and groues, are naked to behold,</l>
+                  <l>Of Leaues and Branches now diſpoyled cleane:</l>
+                  <l>So that their fruitfull ſtocks they doe vnfold,</l>
+                  <l>And lay abroad their of-ſpring to beſeene;</l>
+                  <l>Where nature ſhewes her great increaſe of kinde</l>
+                  <l>To ſuch as ſeeke their tender ſhutes to finde.</l>
+               </lg>
+               <pb facs="tcp:13919:5"/>
+               <lg>
+                  <l>Then goe into ſome great <hi>Arcadian</hi> wood,</l>
+                  <l>Where ſtore of ancient <hi>Hazels</hi> doe abound;</l>
+                  <l>And ſeeke amongſt their ſprings and tender brood,</l>
+                  <l>Such ſhutes as are the ſtraighteſt, long, and round:</l>
+                  <l>And of them all (ſtore vp what you thinke good)</l>
+                  <l>But faireſt chooſe, the ſmootheſt, and moſt ſound;</l>
+                  <l>So that they doe not two yeares growth exceed,</l>
+                  <l>In ſhape and beautie like the <hi>Belgicke</hi> Reed.</l>
+               </lg>
+               <lg>
+                  <l>Theſe prune and clenſe of euery leafe and ſpray,</l>
+                  <l>Yet leaue the tender top remaining ſtill:</l>
+                  <l>Then home with thee goe beare them ſafe away,</l>
+                  <l>But periſh not the Rine and vtter Pill;</l>
+                  <l>And on ſome euen boarded floore them lay,</l>
+                  <l>Where they may dry and ſeaſon at their fill:</l>
+                  <l>And place vpon their crooked parts ſome waight,</l>
+                  <l>To preſſe them downe, and keepe them plaine and ſtraight.</l>
+               </lg>
+               <lg>
+                  <l>So ſhalt thou haue alwayes in ſtore the beſt,</l>
+                  <l>And fitteſt Rods to ſerue thy turne aright;</l>
+                  <l>For not the brittle <hi>Cane,</hi> nor all the reſt,</l>
+                  <l>I like ſo well, though it be long and light,</l>
+                  <l>Since that the Fiſh are frighted with the leaſt</l>
+                  <l>Aſpect of any glittering thing, or white:</l>
+                  <l>Nor doth it by one halfe ſo well incline,</l>
+                  <l>As doth the plyant rod to ſaue the line.</l>
+               </lg>
+               <pb facs="tcp:13919:6"/>
+               <lg>
+                  <head>To make the Line.</head>
+                  <l>THen get good Hayre, ſo that it be not blacke,</l>
+                  <l>Neither of Mare nor Gelding let it be;</l>
+                  <l>Nor of the tyreling Iade that beares the packe:</l>
+                  <l>But of ſome luſty Horſe or Courſer free,</l>
+                  <l>Whoſe buſhie tayle vpon the ground doth tracke,</l>
+                  <l>Like blazing <hi>Comete</hi> that ſometimes we ſee:</l>
+                  <l>From out the mid'ſt thereof the longeſt take,</l>
+                  <l>At leyſure beſt your Linkes and Lines to make.</l>
+               </lg>
+               <lg>
+                  <l>Then twiſt them finely, as you thinke moſt meet,</l>
+                  <l>By skill or practiſe eaſie to be found;</l>
+                  <l>As doth <hi>Arachue</hi> with her ſlender feet;</l>
+                  <l>Draw forth her little thread along the ground,</l>
+                  <l>But not too hard or ſlacke, the meane is ſweet,</l>
+                  <l>Leaſt ſlacke they ſnarle, or hard they proue vnſound,</l>
+                  <l>And intermixt with ſiluer, ſilke, or gold,</l>
+                  <l>The tender hayres, the better ſo to hold.</l>
+               </lg>
+               <lg>
+                  <l>Then end to end, as falleth to their lot,</l>
+                  <l>Let all your Linkes in order as they lie</l>
+                  <l>Be knit together, with that Fiſhers knot</l>
+                  <l>That will not ſlip, or with the wet vntie:</l>
+                  <l>And at the loweſt end forget it not</l>
+                  <l>To leaue a Bought or Compaſſe like an eye,</l>
+                  <l>The Linke that holds your Hooke to hang vpon,</l>
+                  <l>When you thinke good to take it off and on.</l>
+               </lg>
+               <pb facs="tcp:13919:6"/>
+               <lg>
+                  <l>Which Linke muſt neither be ſo great nor ſtrong,</l>
+                  <l>Nor like of colour as the others were;</l>
+                  <l>Scant halfe ſo big, ſo that it be as long:</l>
+                  <l>Of grayeſt Hue, and of the ſoundeſt Hayre,</l>
+                  <l>Leaſt whiles it hangs the liquid waues among</l>
+                  <l>The ſight thereof, the warie Fiſh ſhould feare.</l>
+                  <l>And at one end a Loope or Compaſſe fine,</l>
+                  <l>To faſten to the other of your line.</l>
+               </lg>
+               <lg>
+                  <head>Corke.</head>
+                  <l>THen take good <hi>Corke,</hi> ſo much as ſhall ſuffice,</l>
+                  <l>For euery Line to make his ſwimmer fit;</l>
+                  <l>And where the midſt and thickeſt parts doth riſe,</l>
+                  <l>There burne a round ſmall hole quite thorow it:</l>
+                  <l>And put therein a Quill of equall ſize,</l>
+                  <l>But take good heed the <hi>Corke</hi> you doe not ſlit.</l>
+                  <l>Then round or ſquare with <hi>Razor</hi> pare it neare,</l>
+                  <l>
+                     <hi>Piramid</hi>-wiſe, or like a ſlender Peare.</l>
+               </lg>
+               <lg>
+                  <l>The ſmaller end doth ſerue to ſinke more light,</l>
+                  <l>Into the water with the Plummets ſway;</l>
+                  <l>The greater ſwims aloft and ſtands vpright,</l>
+                  <l>To keepe the Line and Bayt at euen ſtay,</l>
+                  <l>That when the Fiſh begins to nib and byte,</l>
+                  <l>The mouing of the float doth them bewray.</l>
+                  <l>Theſe may you place vpon your Lines at will,</l>
+                  <l>And ſtoppe them with a white and handſome Quill.</l>
+               </lg>
+               <pb facs="tcp:13919:7"/>
+               <lg>
+                  <head>Hookes.</head>
+                  <l>THen buy your Hookes the fineſt and the beſt</l>
+                  <l>That may be had of ſuch as vſe to ſell,</l>
+                  <l>And from the greateſt to the very leaſt</l>
+                  <l>Of euery ſort picke out and chuſe them well,</l>
+                  <l>Such as in ſhape and making paſſe the reſt.</l>
+                  <l>And doe for ſtrength and ſoundneſſe moſt excell:</l>
+                  <l>Then in a little Boxe of dryeſt wood</l>
+                  <l>From ruſt and canker keepe them ſaire and good.</l>
+               </lg>
+               <lg>
+                  <l>That Hooke I loue that is in compaſſe round</l>
+                  <l>Like to the print that <hi>Pegaſus</hi> did make,</l>
+                  <l>With horned hoofe vpon <hi>Theſſalian</hi> ground;</l>
+                  <l>From whence forthwith <hi>Pernaſſus</hi> ſpring out brake,</l>
+                  <l>That doth in pleaſant Waters ſo abound:</l>
+                  <l>And of the <hi>Muſes</hi> oft the thirſt doth ſlake,</l>
+                  <l>Who on his fruitfull bankes doe ſit and ſing,</l>
+                  <l>That all the world of their ſwee tunes doth ring.</l>
+               </lg>
+               <lg>
+                  <l>Or as <hi>Thaumantis,</hi> when ſhe liſt to ſhrowd</l>
+                  <l>Her ſelfe againſt the parching ſunny ray,</l>
+                  <l>Vnder the mantle of ſome ſtormy cloud,</l>
+                  <l>Where ſhe her ſundry colours doth diſplay</l>
+                  <l>Like <hi>Iunoes</hi> Bird, of her faire garments proud,</l>
+                  <l>That <hi>Phoebus</hi> gaue her on her marriage day:</l>
+                  <l>Shewes forth her goodly Circle farre and wide,</l>
+                  <l>To mortall wights that wonder at her pride.</l>
+               </lg>
+               <pb facs="tcp:13919:7"/>
+               <lg>
+                  <l>His <hi>Shank</hi> ſhould neither be to ſhort nor long,</l>
+                  <l>His point not ouerſharpe, nor yet too dull:</l>
+                  <l>The ſubſtance good that may indure from wrong;</l>
+                  <l>His Needle ſlender, yet both round and full,</l>
+                  <l>Made of the right <hi>Iberian</hi> mettell ſtrong,</l>
+                  <l>That will not ſtretch nor breake at euery pull,</l>
+                  <l>Wrought ſmooth and cleane withouten cracke or knot</l>
+                  <l>And bearded like the wilde <hi>Arabian</hi> goat.</l>
+               </lg>
+               <lg>
+                  <l>Then let your Hooke be ſure and ſtrongly plaſte</l>
+                  <l>Vnto your loweſt Linke with Silke or Hayre,</l>
+                  <l>Which you may doe with often ouercaſte,</l>
+                  <l>So that you draw the Bouts together neare,</l>
+                  <l>And with both ends make all the other faſt,</l>
+                  <l>That no bare place or riſing knot appeare:</l>
+                  <l>Then on that Linke hang Leads of euen waight</l>
+                  <l>To raiſe your floate, and carry downe your baite.</l>
+               </lg>
+               <lg>
+                  <l>Thus haue you <hi>Rod, Line, Float,</hi> and <hi>Hooke;</hi>
+                  </l>
+                  <l>The Rod to ſtrike, when you ſhall thinke it fit,</l>
+                  <l>The Line to lead the Fiſh with wary skill,</l>
+                  <l>The Float and Quill to warne you of the bit;</l>
+                  <l>The Hooke to hold him by the chap or gill,</l>
+                  <l>Hooke, Line, and Rod, all guided to your wit.</l>
+                  <l>Yet there remaines of Fiſhing tooles to tell,</l>
+                  <l>Some other ſorts that you muſt haue as well.</l>
+               </lg>
+               <pb facs="tcp:13919:8"/>
+               <lg>
+                  <head>Other fiſhing Tooles.</head>
+                  <l>ALittle Boord, the lighteſt you can finde,</l>
+                  <l>But not ſo thin that it will breake or bend;</l>
+                  <l>Of <hi>Cypres</hi> ſweet, or of ſome other kinde,</l>
+                  <l>That like a Trenchor ſhall it ſelfe extend:</l>
+                  <l>Made ſmooth and plaine, your Lines thereon to winde,</l>
+                  <l>With Battlements at euery other end:</l>
+                  <l>Like to the Bulwarke of ſome ancient Towne,</l>
+                  <l>As well-wald <hi>Sylcheſter</hi> now razed downe.</l>
+               </lg>
+               <lg>
+                  <l>A Shooe to beare the crawling Wormes therein,</l>
+                  <l>With hole aboue to hang it by your ſide,</l>
+                  <l>A hollow Cane that muſt be light and thin,</l>
+                  <l>Wherein the <hi>Bobb</hi> and <hi>Palmer</hi> ſhall abide,</l>
+                  <l>Which muſt be ſtopped with an handſome pin,</l>
+                  <l>Leaſt out againe your baytes doe hap to ſlide.</l>
+                  <l>A little Box that couered cloſe ſhall lye,</l>
+                  <l>To keepe therein the buſie winged Flye.</l>
+               </lg>
+               <lg>
+                  <l>Then muſt you haue a Plummet, formed round,</l>
+                  <l>Like to the Pellet of a birding Bow:</l>
+                  <l>Wherewith you may the ſecret'ſt waters ſound,</l>
+                  <l>And ſet your floate thereafter high, or low,</l>
+                  <l>Till you the depth thereof haue truely found:</l>
+                  <l>And on the ſame a twiſted thread beſtow</l>
+                  <l>At your owne will, to hang it on your hooke,</l>
+                  <l>And ſo to let it downe into the Brooke.</l>
+               </lg>
+               <pb facs="tcp:13919:8"/>
+               <lg>
+                  <l>Of Lead likewiſe, yet muſt you haue a Ring,</l>
+                  <l>Whoſe whole Diameter in length containes</l>
+                  <l>Three Inches full, and faſtned to a ſtring</l>
+                  <l>That muſt belong and ſure, if need conſtraines:</l>
+                  <l>Through whoſe round hole you ſhall your Angle bring,</l>
+                  <l>And let it fall into the watry playne:</l>
+                  <l>Vntill he come the weedes and ſtickes vnto,</l>
+                  <l>From whence your hooke it ſerueth to vndo.</l>
+               </lg>
+               <lg>
+                  <l>Haue Tooles good ſtore to ſerue your turne withall,</l>
+                  <l>Leaſt that you happen ſome to loſe or breake;</l>
+                  <l>As in great waters oft it doth befall,</l>
+                  <l>When that the Hooke is nought or Line too weake.</l>
+                  <l>And waxed thread, or ſilke, ſo it be ſmall</l>
+                  <l>To ſet them on, that if you liſt to wreake</l>
+                  <l>Your former loſſe, you may ſupply the place,</l>
+                  <l>And not returne with ſorrow and diſgrace.</l>
+               </lg>
+               <lg>
+                  <l>Haue twiſt likewiſe, ſo that it be not white,</l>
+                  <l>Your Rod to mend, or broken top to tye;</l>
+                  <l>For all white colours doe the Fiſhes fright,</l>
+                  <l>And make them from the bayte away to flye;</l>
+                  <l>A File to mend your hookes, both ſmall and light,</l>
+                  <l>A good ſharpe knife, your Girdle hanging by:</l>
+                  <l>A Pouch with many parts and purſes thin,</l>
+                  <l>To carry all your Tooles and Trynkets in.</l>
+               </lg>
+               <pb facs="tcp:13919:9"/>
+               <lg>
+                  <l>Yet muſt you haue a little Rip beſide,</l>
+                  <l>Of Willow twigs, the fineſt you can wiſh;</l>
+                  <l>Which ſhall be made ſo handſome and ſo wide</l>
+                  <l>As may containe good ſtore of ſundry Fiſh:</l>
+                  <l>And yet with eaſe be hanged by your ſide,</l>
+                  <l>To bring them home the better to your diſh.</l>
+                  <l>A little Net that on a Pole ſhall ſtand,</l>
+                  <l>The mighty Pyke or heauy Carpe to Land.</l>
+               </lg>
+               <lg>
+                  <head>His ſeuer all Tooles, and what garment is fitteſt.</head>
+                  <l>ANd let you garments Ruſſet be or gray,</l>
+                  <l>Of colour darke, and hardeſt to diſcry;</l>
+                  <l>That with the Raine or weather will away,</l>
+                  <l>And leaſt offend the fearefull Fiſhes eye:</l>
+                  <l>For neither Skarlet nor rich cloth of ray,</l>
+                  <l>Nor colours dipt in freſh <hi>Aſſyrian</hi> dye,</l>
+                  <l>Nor tender ſilkes, of Purple, Paule, or golde,</l>
+                  <l>Will ſerue ſo well to keepe off wet or colde.</l>
+               </lg>
+               <lg>
+                  <l>In this aray the <hi>Angler</hi> good ſhall goe</l>
+                  <l>Vnto the Brooke, to finde his vviſhed game;</l>
+                  <l>Like olde <hi>Menaleus</hi> vvandring to and fro,</l>
+                  <l>Vntill he chance to light vpon the ſame,</l>
+                  <l>And there his art and cunning ſhall beſtow,</l>
+                  <l>For euery Fiſh his bayte ſo well to frame,</l>
+                  <l>That long ere <hi>Phoebus</hi> ſet in Weſterne ſome,</l>
+                  <l>He ſhall returne well loaden to his home.</l>
+               </lg>
+               <pb facs="tcp:13919:9"/>
+               <lg>
+                  <head>Obiection.</head>
+                  <l>SOme youthfull <hi>Gallant</hi> here perhaps will ſay,</l>
+                  <l>This is no paſtime for a gentleman.</l>
+                  <l>It were more fit at cardes and dice to play,</l>
+                  <l>To vſe both fence and dauncing now and than,</l>
+                  <l>Or walke the ſtreetes in nice and ſtrange Aray,</l>
+                  <l>Or with coy phraſes court his Miſtris fan,</l>
+                  <l>A poore delight with toyle and painfull watch,</l>
+                  <l>With loſſe of time a ſilly Fiſh to catch.</l>
+               </lg>
+               <lg>
+                  <l>What pleaſure can it be to walke about,</l>
+                  <l>The fields and meades in heat or pinching cold?</l>
+                  <l>And ſtand all day to catch a ſilly <hi>Trout,</hi>
+                  </l>
+                  <l>That is not worth a teaſter to be ſold,</l>
+                  <l>And peraduenture ſometimes goe without,</l>
+                  <l>Beſides the toles and troubles manifold,</l>
+                  <l>And to be waſht with many a ſhowre of rayne,</l>
+                  <l>Before he can returne from thence againe?</l>
+               </lg>
+               <lg>
+                  <l>More eaſe it were, and more delight I trow,</l>
+                  <l>In ſome ſweet houſe to paſſe the time away,</l>
+                  <l>Amongſt the beſt, with braue and gallant ſhow,</l>
+                  <l>And with faire dames to daunce, to ſport and play,</l>
+                  <l>And on the board, the nimble dice to throw,</l>
+                  <l>That brings in gaine, and helps the ſhot to pay,</l>
+                  <l>And with good wine and ſtore of dainty fare,</l>
+                  <l>To feede at will and take but little care.</l>
+               </lg>
+               <pb facs="tcp:13919:10"/>
+               <lg>
+                  <head>The Anſwere.</head>
+                  <l>I Meane not here mens errours to reproue,</l>
+                  <l>Nor doe enuie their ſeeming happy ſtate;</l>
+                  <l>But rather meruaile why they doe not loue</l>
+                  <l>An honeſt ſport that is without debate;</l>
+                  <l>Since their abuſed paſtimes often moue</l>
+                  <l>Their mindes to anger and to mortall hate:</l>
+                  <l>And as in bad delights their time they ſpend,</l>
+                  <l>So oft it brings them to no better end.</l>
+               </lg>
+               <lg>
+                  <l>Indeed it is a life of leſſer paine,</l>
+                  <l>To ſit at play from noone till it be night:</l>
+                  <l>And then from night till it be noone againe,</l>
+                  <l>With damned oathes, pronounced in deſpight,</l>
+                  <l>For little cauſe and euery trifle vaine,</l>
+                  <l>To curſe, to brawle, to quarrell, and to fight,</l>
+                  <l>To packe the Cardes, and with ſome cozning tricke</l>
+                  <l>His fellowes Purſe of all his coyne to picke.</l>
+               </lg>
+               <lg>
+                  <l>Or to beguile another of his Wife,</l>
+                  <l>As did <hi>Aeghiſtus Agamemnon</hi> ſerue:</l>
+                  <l>Or as that Roman
+<note n="*" place="margin">Nero.</note> Monarch led a life</l>
+                  <l>To ſpoyle and ſpend, while others pine and ſterue,</l>
+                  <l>And to compell their friends with fooliſh ſtrife,</l>
+                  <l>To take more drinke then will their health preſerue:</l>
+                  <l>And to conclude, for debt or iuſt deſart,</l>
+                  <l>In baſer tune to ſing the <hi>Counter</hi>-part.</l>
+               </lg>
+               <pb facs="tcp:13919:10"/>
+               <lg>
+                  <l>O let me rather on the pleaſant Brinke</l>
+                  <l>Of <hi>Tyne</hi> and <hi>Trent</hi> poſſeſſe ſome dwelling place;</l>
+                  <l>Where I may ſee my Quill and Corke downe ſinke,</l>
+                  <l>With eager bit of <hi>Barbill, Bleike,</hi> or <hi>Dace:</hi>
+                  </l>
+                  <l>And on the World and his Creator thinke,</l>
+                  <l>While they proud <hi>Thais</hi> painted ſheat imbrace.</l>
+                  <l>And with the fume of ſtrong <hi>Tobacco's</hi> ſmoke,</l>
+                  <l>All quaffing round are ready for to choke.</l>
+               </lg>
+               <lg>
+                  <l>Let them that liſt theſe paſtimes then purſue,</l>
+                  <l>And on their pleaſing fancies feede their fill;</l>
+                  <l>So I the Fields and Meadowes greene may view,</l>
+                  <l>And by the Riuers freſh may walke at will,</l>
+                  <l>Among the <hi>Dayzes</hi> and the <hi>Violets</hi> blew:</l>
+                  <l>Red <hi>Hyacinth,</hi> and yealow <hi>Daffadill,</hi>
+                  </l>
+                  <l>Purple <hi>Narciſſus,</hi> like the morning rayes,</l>
+                  <l>Pale <hi>Ganderglas,</hi> and azour <hi>Culuerkayes.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>I count it better pleaſure to behold</l>
+                  <l>The goodly compaſſe of the loftie Skye,</l>
+                  <l>And in the midſt thereof like burning gold</l>
+                  <l>The flaming Chariot of the worlds great eye;</l>
+                  <l>The watry cloudes that in the ayre vprold</l>
+                  <l>With ſundry kindes of painted collours flie:</l>
+                  <l>And fayre <hi>Aurora</hi> lifting vp her head,</l>
+                  <l>All bluſhing riſe from old <hi>Thitonus</hi> bed.</l>
+               </lg>
+               <pb facs="tcp:13919:11"/>
+               <lg>
+                  <l>The hills and Mountaines raiſed from the Plaines,</l>
+                  <l>The plaines extended leuell with the ground,</l>
+                  <l>The ground deuided into ſundry vaines,</l>
+                  <l>The vaines inclos'd with running riuers rounde,</l>
+                  <l>The riuers making way through natures chaine,</l>
+                  <l>With headlong courſe into the ſea profounde:</l>
+                  <l>The ſurging ſea beneath the valleys low,</l>
+                  <l>The valleys ſweet, and lakes that louely flowe.</l>
+               </lg>
+               <lg>
+                  <l>The lofty woods the forreſts wide and long,</l>
+                  <l>Adornd with leaues and branches freſh and greene,</l>
+                  <l>In whoſe coole bow'rs the birds with chaunting ſong,</l>
+                  <l>Doe welcome with their quire the <hi>Summers</hi> Queene,</l>
+                  <l>The meadowes faire where <hi>Flora's</hi> guifts among,</l>
+                  <l>Are intermixt the verdant graſſe betweene,</l>
+                  <l>The ſiluer skaled fiſh that ſoftlie ſwimme,</l>
+                  <l>Within the brookes and Chriſtall watry brimme.</l>
+               </lg>
+               <lg>
+                  <l>All theſe and many more of his creation,</l>
+                  <l>That made the heauens, the <hi>Angler</hi> oft doth ſee,</l>
+                  <l>And takes therein no little delectation,</l>
+                  <l>To thinke how ſtrange and wonderfull they be,</l>
+                  <l>Framing thereof an inward contemplation,</l>
+                  <l>To ſet his thoughts from other fancies free,</l>
+                  <l>And whiles hee lookes on theſe with ioyfull eye,</l>
+                  <l>His minde is rapt aboue the ſtarry skye.</l>
+               </lg>
+               <pb facs="tcp:13919:11"/>
+               <lg>
+                  <head>The Author of Angling.</head>
+                  <l>BVt how this Art of Angling did beginne,</l>
+                  <l>And who the vſe thereof and practiſe found,</l>
+                  <l>How many times and ages ſince haue bin,</l>
+                  <l>Wherein the ſunne hath dayly compaſt round,</l>
+                  <l>The circle that the ſignes twice ſixe are in:</l>
+                  <l>And yeelded yearely comfort to the ground,</l>
+                  <l>It were too hard for me to bring about,</l>
+                  <l>Since <hi>Ouid</hi> wrote not all that ſtory out.</l>
+               </lg>
+               <lg>
+                  <l>Yet to content the willing Readers eare,</l>
+                  <l>I will not ſpare the ſad report to tell,</l>
+                  <l>When good <hi>Deucalion</hi> and his <hi>Pirrha</hi> deere,</l>
+                  <l>Were onely left vpon the earth to dwell</l>
+                  <l>Of all the reſt that ouerwhelmed were</l>
+                  <l>With that great floud, that in their dayes befell,</l>
+                  <l>Wherein the compaſſe of the world ſo round,</l>
+                  <l>Both man and beaſt with waters deepe were dround.</l>
+               </lg>
+               <lg>
+                  <l>Between themſelues they wept and made great moane,</l>
+                  <l>How to repaire againe the wofull fall,</l>
+                  <l>Of all mankinde, whereof they two alone</l>
+                  <l>The remnant were, and wretched portion ſmall,</l>
+                  <l>But any meanes or hope in them was none,</l>
+                  <l>That might reſtore ſo great a loſſe with all,</l>
+                  <l>Since they were aged, and in yeares ſo runne,</l>
+                  <l>That now almoſt their threed of life was ſpunne.</l>
+               </lg>
+               <pb facs="tcp:13919:12"/>
+               <lg>
+                  <l>Vntill at laſt they ſaw where as there ſtood</l>
+                  <l>An ancient Temple, waſted and forlorne;</l>
+                  <l>Whoſe holy fires and ſundry offerings good,</l>
+                  <l>The late outragious waues away had borne:</l>
+                  <l>But when at length downe fallen was the flood,</l>
+                  <l>The waters low it proudly gan to ſcorne.</l>
+                  <l>Vnto that place they thought it beſt to goe,</l>
+                  <l>The counſell of the <hi>Goddeſſe</hi> thereto know.</l>
+               </lg>
+               <lg>
+                  <l>For long before that fearefull <hi>Deluge</hi> great,</l>
+                  <l>The vniuerſall Earth had ouerflowne;</l>
+                  <l>A heauenly power there placed had her ſeate,</l>
+                  <l>And anſweres gaue of hidden things vnknowne.</l>
+                  <l>Thither they went her fauour to intreat,</l>
+                  <l>Whoſe fame throughout that coaſt abroad was blowne</l>
+                  <l>By her aduice ſome way or meane to finde,</l>
+                  <l>How to renew the race of humane kinde.</l>
+               </lg>
+               <lg>
+                  <l>Proſtrate they fell vpon the ſacred ground,</l>
+                  <l>Kiſſing the ſtones, and ſhedding many a teare;</l>
+                  <l>And lowly bent their aged bodies downe</l>
+                  <l>Vnto the earth, with ſad and heauy cheare:</l>
+                  <l>Praying the Saint with ſoft and dolefull ſound</l>
+                  <l>That ſhe vouchſafe their humble ſuite to heare.</l>
+                  <l>The <hi>Goddeſſe</hi> heard, and bad them goe and take,</l>
+                  <l>Their mothers bones, &amp; throw behind their backe.</l>
+               </lg>
+               <pb facs="tcp:13919:12"/>
+               <lg>
+                  <l>This <hi>Oracle</hi> obſcure, and darke of ſence,</l>
+                  <l>Amazed much their mindes with feare and doubt,</l>
+                  <l>What kind of meaning might be drawne from thence;</l>
+                  <l>And how to vnderſtand and finde it out,</l>
+                  <l>How with ſo great a ſinne they might diſpence</l>
+                  <l>Their Parents bones to caſt and throw about:</l>
+                  <l>Thus when they had long time in ſtudie ſpent,</l>
+                  <l>Out of the Church with carefull thought they went.</l>
+               </lg>
+               <lg>
+                  <l>And now beholding better euery place,</l>
+                  <l>Each Hill and Dale, each Riuer, Rock, and Tree;</l>
+                  <l>And muzing thereupon a little ſpace,</l>
+                  <l>They thought the Earth their mother well might be,</l>
+                  <l>And that the ſtones that lay before their face,</l>
+                  <l>To be her bones did nothing diſagree:</l>
+                  <l>Wherefore to proue if it were falſe or true,</l>
+                  <l>The ſcattered ſtones behind their backs they threw.</l>
+               </lg>
+               <lg>
+                  <l>Forthwith the ſtones (a wondrous thing to heare,</l>
+                  <l>Began to moue as they had life conceiu'd,</l>
+                  <l>And waxed greater then at firſt they were;</l>
+                  <l>And more and more the ſhape of man receiu'd,</l>
+                  <l>Till euery part moſt plainely did appeare,</l>
+                  <l>That neither eye nor ſence could be deceiu'd:</l>
+                  <l>They heard, they ſpake, they went, and walked too,</l>
+                  <l>As other liuing men are wont to doe.</l>
+               </lg>
+               <pb facs="tcp:13919:13"/>
+               <lg>
+                  <l>Thus vvas the earth repleniſhed a new,</l>
+                  <l>With people ſtrange, ſprung vp with little paine,</l>
+                  <l>Of whoſe increaſe the progenie that grew,</l>
+                  <l>Did ſoone ſupply the empty world againe;</l>
+                  <l>But now a greater care there did inſue,</l>
+                  <l>How ſuch a mightie number to maintaine,</l>
+                  <l>Since foode there was not any to be found,</l>
+                  <l>For that great flood had all deſtroyd and drownd.</l>
+               </lg>
+               <lg>
+                  <l>Then did <hi>Deucalion</hi> firſt the Art inuent</l>
+                  <l>Of <hi>Angling,</hi> and his people taught the ſame;</l>
+                  <l>And to the Woods and groues with them hee went</l>
+                  <l>Fit tooles to finde for this moſt needfull game;</l>
+                  <l>There from the trees the longeſt ryndes they rent,</l>
+                  <l>Wherewith ſtrong Lines they roughly twiſt and frame,</l>
+                  <l>And of each crooke of hardeſt Buſh and Brake,</l>
+                  <l>They made them Hookes the hungry Fiſh to take.</l>
+               </lg>
+               <lg>
+                  <l>And to intice them to the eager bit,</l>
+                  <l>Dead frogs and flies of ſundry ſorts he tooke;</l>
+                  <l>And ſnayles and vvormes ſuch as he found moſt fit,</l>
+                  <l>Wherein to hide the cloſe and deadly hooke:</l>
+                  <l>And thus with practiſe and inuentiue wit,</l>
+                  <l>He found the meanes in euery lake and brooke</l>
+                  <l>Such ſtore of Fiſh to take with little paine,</l>
+                  <l>As did long time this people new ſuſtaine.</l>
+               </lg>
+               <pb facs="tcp:13919:13"/>
+               <lg>
+                  <l>In this rude ſort began this ſimple Art,</l>
+                  <l>And ſo remain'd in that firſt age of old,</l>
+                  <l>When <hi>Saturne</hi> did <hi>Amaltheas</hi> horne impart</l>
+                  <l>Vnto the world, that then was all of Gold;</l>
+                  <l>The Fiſh as yet had felt but little ſmart,</l>
+                  <l>And were to bite more eager, apt, and bold:</l>
+                  <l>And plentie ſtill ſupplide the place againe</l>
+                  <l>Of woefull want, whereof we now complaine.</l>
+               </lg>
+               <lg>
+                  <l>But when in time the feare and dread of man</l>
+                  <l>Fell more and more on euery liuing thing,</l>
+                  <l>And all the creatures of the world began</l>
+                  <l>To ſtand in awe of this vſurping King,</l>
+                  <l>Whoſe tyranny ſo farre extended than</l>
+                  <l>That Earth and Seas it did in thraldome bring;</l>
+                  <l>It was a worke of greater paine and skill,</l>
+                  <l>The wary Fiſh in lake or Brooke to kill.</l>
+               </lg>
+               <lg>
+                  <l>So worſe and worſe two ages more did paſſe,</l>
+                  <l>Yet ſtill this Art more perfect daily grew,</l>
+                  <l>For then the ſlender Rod inuented was,</l>
+                  <l>Of finer ſort then former ages knew,</l>
+                  <l>And Hookes were made of ſiluer and of braſſe,</l>
+                  <l>And Lines of Hempe and Flaxe were framed new,</l>
+                  <l>And ſundry baites experience found out more,</l>
+                  <l>Then elder times did know or try before.</l>
+               </lg>
+               <pb facs="tcp:13919:14"/>
+               <lg>
+                  <l>But at the laſt the Iron age drew neere,</l>
+                  <l>Of all the reſt the hardeſt, and moſt ſcant,</l>
+                  <l>Then Lines were made of Silke and ſubtile hayre</l>
+                  <l>And Rods of lighteſt Cane and Hazell plant,</l>
+                  <l>And Hookes of hardeſt ſteele inuented were,</l>
+                  <l>That neither skill nor workemanſhip did want,</l>
+                  <l>And ſo this Art did in the end attaine</l>
+                  <l>Vnto that ſtate vvhere now it doth remaine.</l>
+               </lg>
+               <lg>
+                  <l>But here my weary <hi>Muſe</hi> a while muſt reſt,</l>
+                  <l>That is not vſed to ſo long a way;</l>
+                  <l>And breath, or pauſe a little at the leaſt</l>
+                  <l>At this Lands end, vntill another day,</l>
+                  <l>And then againe, if ſo ſhe thinke it beſt:</l>
+                  <l>Our taken-taske afreſh wee will aſſay,</l>
+                  <l>And forward goe as firſt we did intend,</l>
+                  <l>Till that wee come vnto our iourneyes end.</l>
+               </lg>
+               <trailer>The end of the firſt Booke.</trailer>
+            </div>
+            <div n="2" type="book">
+               <pb facs="tcp:13919:14"/>
+               <head>The ſecond Booke.</head>
+               <lg>
+                  <l>
+                     <seg rend="decorInit">B</seg>Efore, I taught what kinde of Tooles were fit</l>
+                  <l>For him to haue that would an <hi>Angler</hi> be:</l>
+                  <l>And how he ſhould with practiſe &amp; with wit</l>
+                  <l>Prouide himſelfe thereof in beſt degree:</l>
+                  <l>Now doth remaine to ſhew how to the bit</l>
+                  <l>The Fiſhes may be brought, that earſt were free,</l>
+                  <l>And with what pleaſing baits intis'd they are,</l>
+                  <l>To ſwallow downe the hidden Hooke vnware.</l>
+               </lg>
+               <lg>
+                  <head>Baites.</head>
+                  <l>IT vvere not meet to ſend a Huntſman out</l>
+                  <l>Into the Woods, vvith Net, vvith Gin, or Hay,</l>
+                  <l>To trace the brakes and buſhes all about,</l>
+                  <l>The <hi>Stag,</hi> the <hi>Foxe,</hi> or <hi>Badger</hi> to betray:</l>
+                  <l>If hauing found his game, he ſtand in doubt</l>
+                  <l>Which way to pitch, or vvhere his ſnares to lay,</l>
+                  <l>And vvith vvhat traine he may entiſe vvithall</l>
+                  <l>The fearefull beaſt into his trap to fall.</l>
+               </lg>
+               <pb facs="tcp:13919:15"/>
+               <lg>
+                  <l>So, though the <hi>Angler</hi> haue good ſtore of tooles,</l>
+                  <l>And them with skill in fineſt ſort can frame;</l>
+                  <l>Yet when he comes to Riuers, Lakes, and Pooles,</l>
+                  <l>If that he know not how to vſe the ſame,</l>
+                  <l>And with what baites to make the Fiſhes fooles,</l>
+                  <l>He may goe home as wiſe as out he came,</l>
+                  <l>And of his comming boaſt himſelfe as well</l>
+                  <l>As he that from his fathers Chariot fell.</l>
+               </lg>
+               <lg>
+                  <l>Not that I take vpon mee to impart</l>
+                  <l>More then by others hath before beene told;</l>
+                  <l>Or that the hidden ſecrets of this Art</l>
+                  <l>I would vnto the vulgar ſort vnfolde,</l>
+                  <l>Who peraduenture for my paines deſart</l>
+                  <l>Would count me worthy <hi>Balams</hi> horſe to holde:</l>
+                  <l>But onely to the willing learner ſhow</l>
+                  <l>So much thereof as may ſuffiſe to know.</l>
+               </lg>
+               <lg>
+                  <l>But here, O <hi>Neptune,</hi> that with triple Mace</l>
+                  <l>Doſt rule the raging of the <hi>Ocean</hi> wide;</l>
+                  <l>I meddle not with thy deformed race</l>
+                  <l>Of monſters huge, that in thoſe waues abide:</l>
+                  <l>With that great Whale, that by three whole dayes ſpace</l>
+                  <l>The man of God did in his belly hide,</l>
+                  <l>And caſt him out vpon the <hi>Euxin</hi> ſhore,</l>
+                  <l>As ſafe and ſound as he had beene before.</l>
+               </lg>
+               <pb facs="tcp:13919:15"/>
+               <lg>
+                  <l>Nor with that <hi>Orke</hi> that on <hi>Cephaean</hi> ſtrand</l>
+                  <l>Would haue deuour'd <hi>Andromeda</hi> the faire,</l>
+                  <l>Whom <hi>Perſeus</hi> ſlew with ſtrong and valiant hand,</l>
+                  <l>Deliuering her from danger and deſpaire,</l>
+                  <l>The <hi>Hurlepoole</hi> huge that higher then the land,</l>
+                  <l>Whole ſtreames of water ſpouteth in the ayre,</l>
+                  <l>The <hi>Porpois</hi> large that playing ſwims on hie,</l>
+                  <l>Portending ſtormes or other tempeſts nie.</l>
+               </lg>
+               <lg>
+                  <l>Nor that admirer of ſweet Muſickes ſound,</l>
+                  <l>That on his backe <hi>Arion</hi> bore away;</l>
+                  <l>And brought to ſhore out of the Seas profound,</l>
+                  <l>The <hi>Hippotame</hi> that like an horſe doth neigh,</l>
+                  <l>The <hi>Mors,</hi> that from the rockes inrolled round,</l>
+                  <l>Within his teeth himſelfe doth ſafe conuay:</l>
+                  <l>The <hi>Tortoiſe</hi> couered with his target hard,</l>
+                  <l>The <hi>Tuberone</hi> attended vvith his guard.</l>
+               </lg>
+               <lg>
+                  <l>Nor with that Fiſh that beareth in his ſnout</l>
+                  <l>A ragged ſword, his foes to ſpoile and kill;</l>
+                  <l>Nor that fierce <hi>Thraſher,</hi> that doth fling about</l>
+                  <l>His nimble flayle, and handles him at will:</l>
+                  <l>The rauenous <hi>Sharke</hi> that with the ſweepings out</l>
+                  <l>And filth of ſhips doth oft his belly fill.</l>
+                  <l>The <hi>Albacore</hi> that followeth night and day</l>
+                  <l>The flying Fiſh, and takes them for his pray.</l>
+               </lg>
+               <pb facs="tcp:13919:16"/>
+               <lg>
+                  <l>The <hi>Crocodile</hi> that vveepes when he doth vvrong,</l>
+                  <l>The <hi>Hollibut</hi> that hurts the appetite,</l>
+                  <l>The <hi>Turbut</hi> broad, the <hi>Sceale,</hi> the <hi>Sturgion</hi> ſtrong,</l>
+                  <l>The <hi>Cod</hi> and <hi>Cozze,</hi> that greedy are to bite,</l>
+                  <l>The <hi>Haake,</hi> the <hi>Haddocke,</hi> and <hi>Conger</hi> long,</l>
+                  <l>The yeallow <hi>Ling,</hi> the <hi>Milwell</hi> faire and white,</l>
+                  <l>The ſpreading <hi>Ray,</hi> the <hi>Thornback</hi> thin and flat,</l>
+                  <l>The boyſterous <hi>Baſe,</hi> the hoggiſh <hi>Tunny</hi> fat.</l>
+               </lg>
+               <lg>
+                  <l>Theſe kindes of Fiſh that are ſo large of ſiſe,</l>
+                  <l>And many more that here I leaue vntolde</l>
+                  <l>Shall goe for me, and all the reſt likewiſe</l>
+                  <l>That are the flocke of <hi>Proteus</hi> watry folde:</l>
+                  <l>For well I thinke my Hookes vvould not ſuffiſe,</l>
+                  <l>Nor ſlender Lines, the leaſt of theſe to holde.</l>
+                  <l>I leaue them therefore to the ſurging Seas,</l>
+                  <l>In that huge depth, to wander at their eaſe.</l>
+               </lg>
+               <lg>
+                  <l>And ſpeake of ſuch as in the freſh are found,</l>
+                  <l>The little <hi>Roach,</hi> the <hi>Meniſe</hi> biting faſt,</l>
+                  <l>The ſlymie <hi>Tench,</hi> the ſlender <hi>Smelt</hi> and round,</l>
+                  <l>The <hi>
+                        <g ref="char:V">Ʋ</g>mber</hi> ſweet, the <hi>Graueling</hi> good of taſte,</l>
+                  <l>The vvholeſome <hi>Ruffe,</hi> the <hi>Barbill</hi> not ſo ſound,</l>
+                  <l>The <hi>Pearch</hi> and <hi>Pike</hi> that all the reſt doe waſte,</l>
+                  <l>The <hi>Bream,</hi> the <hi>Carpe,</hi> the <hi>Chub</hi> and <hi>Chauendar,</hi>
+                  </l>
+                  <l>And many more that in freſh waters are.</l>
+               </lg>
+               <pb facs="tcp:13919:16"/>
+               <lg>
+                  <l>Sit then <hi>Thalia</hi> on ſome pleaſant banke,</l>
+                  <l>Among ſo many as faire <hi>Auon</hi> hath,</l>
+                  <l>And marke the <hi>Anglers</hi> how they march in ranke,</l>
+                  <l>Some out of <hi>Briſtoll,</hi> ſome from healthfull <hi>Bath;</hi>
+                  </l>
+                  <l>How all the Riuers ſides along they flanke,</l>
+                  <l>And through the Meadowes make their wonted path:</l>
+                  <l>See how their vvit and cunning they apply,</l>
+                  <l>To catch the Fiſh that in the waters lye.</l>
+               </lg>
+               <lg>
+                  <head>For the Goodgion.</head>
+                  <l>LOe, in a little Boate vvhere one doth ſtand,</l>
+                  <l>That to a Willow Bough the while is tide,</l>
+                  <l>And with a pole doth ſtirre and raiſe the ſand;</l>
+                  <l>Where as the gentle ſtreame doth ſoftly ſlide,</l>
+                  <l>And then vvith ſlender Line and Rod in hand,</l>
+                  <l>The eager bit not long he doth abide.</l>
+                  <l>Well leaded is his Line, his Hooke but ſmall,</l>
+                  <l>A good big Corke to beare the ſtreame withall.</l>
+               </lg>
+               <lg>
+                  <l>His baite the leaſt red worme that may be found,</l>
+                  <l>And at the bottome it doth alwayes lye;</l>
+                  <l>Whereat the greedy <hi>Goodgion</hi> bites ſo ſound</l>
+                  <l>That Hooke and all he ſwalloweth by and by:</l>
+                  <l>See how he ſtrikes, and puls them vp as round</l>
+                  <l>As if new ſtore the play did ſtill ſupply.</l>
+                  <l>And when the bit doth dye or bad doth proue,</l>
+                  <l>Then to another place he doth remoue.</l>
+               </lg>
+               <pb facs="tcp:13919:17"/>
+               <lg>
+                  <l>This Fiſh the fitteſt for a learner is</l>
+                  <l>That in this Art delights to take ſome paine;</l>
+                  <l>For as high flying <hi>Haukes</hi> that often miſſe</l>
+                  <l>The ſwifter foules, are eaſed with a traine,</l>
+                  <l>So to a young beginner yeeldeth this,</l>
+                  <l>Such readie ſport as makes him proue againe,</l>
+                  <l>And leades him on with hope and glad deſire,</l>
+                  <l>To greater skill, and cunning to aſpire.</l>
+               </lg>
+               <lg>
+                  <head>For the Roche.</head>
+                  <l>THen ſee on yonder ſide, where one doth ſit</l>
+                  <l>With Line well twiſted, and his Hooke but ſmall;</l>
+                  <l>His Corke not big, his Plummets round and fit,</l>
+                  <l>His bayt of fineſt paſte, a little ball</l>
+                  <l>Wherewith he doth intice vnto the bit,</l>
+                  <l>The careleſſe <hi>Roche,</hi> that ſoone is caught withall:</l>
+                  <l>Within a foote the ſame doth reach the ground,</l>
+                  <l>And with leaſt touch the float ſtraight ſinketh downe.</l>
+               </lg>
+               <lg>
+                  <l>And as a skilfull Fowler that doth vſe,</l>
+                  <l>The flying Birds of any kinde to take,</l>
+                  <l>The fitteſt and the beſt doth alwayes chuſe,</l>
+                  <l>Of many ſorts a pleaſing ſtale to make,</l>
+                  <l>Which if he doth perceiue they doe refuſe,</l>
+                  <l>And of miſlike abandon and forſake,</l>
+                  <l>To win their loue againe, and get their grace</l>
+                  <l>Forthwith doth put another in the place.</l>
+               </lg>
+               <pb facs="tcp:13919:17"/>
+               <lg>
+                  <l>So for the <hi>Roach</hi> more baites he hath beſide,</l>
+                  <l>As of a ſheepe the thicke congealed blood,</l>
+                  <l>Which on a board he vſeth to deuide</l>
+                  <l>In portions ſmall, to make them fit and good,</l>
+                  <l>That better on his hooke they may abide:</l>
+                  <l>And of the waſpe the white and tender brood,</l>
+                  <l>And wormes that breed on euery hearbe and tree,</l>
+                  <l>And ſundry flies that quicke and liuely be.</l>
+               </lg>
+               <lg>
+                  <head>For the Dace.</head>
+                  <l>THen looke where as that Poplar gray doth grow,</l>
+                  <l>Hard by the ſame where one doth cloſely ſtand,</l>
+                  <l>And with the winde his Hooke and bayt doth throw</l>
+                  <l>Amid the ſtreame vvith ſlender hazell wand,</l>
+                  <l>Where as he ſees the <hi>Dace</hi> themſelues doe ſhow,</l>
+                  <l>His eye is quicke, and ready is his hand,</l>
+                  <l>And when the Fiſh doth riſe to catch the bayt,</l>
+                  <l>He preſently doth ſtrike, and takes her ſtrayt.</l>
+               </lg>
+               <lg>
+                  <l>O worlds deceit! how are we thrald by thee,</l>
+                  <l>That doſt thy gall in ſweeteſt pleaſures hide?</l>
+                  <l>When moſt we thinke in happieſt ſtate to be,</l>
+                  <l>Then doe we ſooneſt into danger ſlide,</l>
+                  <l>Behold the Fiſh that euen now was free,</l>
+                  <l>Vnto the deadly hooke how he is tide,</l>
+                  <l>So vaine delights alure vs to the ſnare,</l>
+                  <l>Wherein vnwares we faſt intangled are.</l>
+               </lg>
+               <pb facs="tcp:13919:18"/>
+               <lg>
+                  <head>For the Carpe.</head>
+                  <l>BVt now againe ſee where another ſtands,</l>
+                  <l>And ſtraines his rod that double ſeemes to bend,</l>
+                  <l>Loe how he leades and guides him with his hands,</l>
+                  <l>Leaſt that his line ſhould breake or Angle rend,</l>
+                  <l>Then with a Net ſee how at laſt he lands,</l>
+                  <l>A mighty <hi>Carpe</hi> and has him in the end,</l>
+                  <l>So large he is of body, ſcale, and bone,</l>
+                  <l>That rod and all had like to haue beene gone.</l>
+               </lg>
+               <lg>
+                  <l>Marke what a line he hath, well made and ſtrong,</l>
+                  <l>Of <hi>Bucephall,</hi> or <hi>Bayards</hi> ſtrongeſt hayre,</l>
+                  <l>Twiſted with greene or watched ſilke among,</l>
+                  <l>Like hardeſt twine, that holds th' intangled Deare,</l>
+                  <l>Not any force of Fiſh will doe it wrong,</l>
+                  <l>In <hi>Tyne,</hi> or <hi>Trent,</hi> or <hi>Thame</hi> he needes not feare:</l>
+                  <l>The knots of euery lincke are knit ſo ſure,</l>
+                  <l>That many a plucke and pull they may indure.</l>
+               </lg>
+               <lg>
+                  <l>His corke is large, made handſome, ſmooth, and fine,</l>
+                  <l>The leads according, cloſe, and fit thereto,</l>
+                  <l>A good round hooke ſet on with ſilkentwine,</l>
+                  <l>That will not ſlip nor eaſily vndoe:</l>
+                  <l>His bait great wormes that long in moſſe haue bin,</l>
+                  <l>Which by his ſide he beareth in a ſhooe.</l>
+                  <l>Or paſte wherewith he feedes him oft before,</l>
+                  <l>That at the bottom lyes a foote or more.</l>
+               </lg>
+               <pb facs="tcp:13919:18"/>
+               <lg>
+                  <head>For the Chub and Trout.</head>
+                  <l>SEe where another hides himſelfe as ſlye,</l>
+                  <l>As did <hi>Acteon,</hi> or the fearefull Deere;</l>
+                  <l>Behinde a withy, and with watchfull eye</l>
+                  <l>Attends the bit within the water cleere,</l>
+                  <l>And on the top thereof doth moue his flye,</l>
+                  <l>With ſkilfull hand, as if he liuing were.</l>
+                  <l>Loe how the <hi>Chub,</hi> the <hi>Roche,</hi> the <hi>Dace,</hi> and <hi>Trout,</hi>
+                  </l>
+                  <l>To catch thereat doe gaze and ſwimme about.</l>
+               </lg>
+               <lg>
+                  <l>His Rod, or Cane, made darke for being ſeene,</l>
+                  <l>The leſſe to feare the warie Fiſh withall:</l>
+                  <l>His Line well twiſted is, and wrought ſo cleane</l>
+                  <l>That being ſtrong, yet doth it ſhew but ſmall,</l>
+                  <l>His Hooke not great, nor little, but betweene,</l>
+                  <l>That light vpon the watry brimme may fall,</l>
+                  <l>The Line in length ſcant halfe the Rod exceedes,</l>
+                  <l>And neither Corke, nor Leade thereon it needes.</l>
+               </lg>
+               <lg>
+                  <head>For the Trout, and Eele.</head>
+                  <l>NOw ſee ſome ſtanding where the ſtreame doth fall,</l>
+                  <l>With headlong courſe behind the ſturdy weere,</l>
+                  <l>That ouerthwart the riuer, like a wall,</l>
+                  <l>The water ſtops, and ſtrongly vp doth beare,</l>
+                  <l>And at the Tayles, of Mills and Arches ſmall,</l>
+                  <l>Whereas the ſhoote is ſwift and not too cleare,</l>
+                  <l>Their lines in length not twice aboue an ell,</l>
+                  <l>But with good ſtore of lead and twiſted well.</l>
+               </lg>
+               <pb facs="tcp:13919:19"/>
+               <lg>
+                  <l>Round handſome hookes that will not breake nor bend,</l>
+                  <l>The big red worme, well ſcowred, is their bayte,</l>
+                  <l>Which downe vnto the bottome doth diſcend,</l>
+                  <l>Whereas the <hi>Trout</hi> and <hi>Eele</hi> doth lye in wayte,</l>
+                  <l>And to their feeding buſily intend,</l>
+                  <l>Which when they ſee they ſnatch and ſwallow ſtraight.</l>
+                  <l>Vpon their lines is neither Corke nor Quill,</l>
+                  <l>But when they feele them plucke then ſtrike they ſtil.</l>
+               </lg>
+               <lg>
+                  <head>For the Sewant and Flounder</head>
+                  <l>BEhold ſome others ranged all along,</l>
+                  <l>To take the <hi>Sewant,</hi> yea, the <hi>Flounder</hi> ſweet,</l>
+                  <l>That to the banke in deepeſt places throng,</l>
+                  <l>To ſhunne the ſwifter ſtreame that runnes ſo fleete,</l>
+                  <l>And lye and feede the brackiſh waues among,</l>
+                  <l>Whereas the waters freſh and ſalt doe meete:</l>
+                  <l>And there the <hi>Eele</hi> and <hi>Shad</hi> ſometimes is caught,</l>
+                  <l>That with the tide into the brookes are brought.</l>
+               </lg>
+               <lg>
+                  <l>But by the way it ſhall not be amiſſe,</l>
+                  <l>To vnderſtand that in the waters gray,</l>
+                  <l>Of floating Fiſh, two ſundry kindes there is,</l>
+                  <l>The one that liues by rauen and by pray,</l>
+                  <l>And of the weaker ſort, now that, now this,</l>
+                  <l>He bites, and ſpoyles, and kills, and beares away,</l>
+                  <l>And in his greedy gullet doth deuowre,</l>
+                  <l>As <hi>Scillas</hi> gulfe, a ſhip within his powre.</l>
+               </lg>
+               <pb facs="tcp:13919:19"/>
+               <lg>
+                  <l>And theſe haue wider mouths to catch and take</l>
+                  <l>Their flying pray, whom ſwiftly they purſew,</l>
+                  <l>And rowes of teeth like to a ſaw or rake,</l>
+                  <l>Wherewith their gotten game they bite and chew,</l>
+                  <l>And greater ſpeede within the waters make,</l>
+                  <l>To ſet vpon the other ſimple crew,</l>
+                  <l>And as the grayhound ſteales vpon the hare,</l>
+                  <l>So doe they vſe to ruſh on them vnware.</l>
+               </lg>
+               <lg>
+                  <l>Vnequall Fate, that ſome are borne to be</l>
+                  <l>Fearefull and milde, and for the reſt a pray,</l>
+                  <l>And others are ordain'd to liue more free,</l>
+                  <l>Without controule or danger any way:</l>
+                  <l>So doth the Foxe the Lambe deſtroy we ſee,</l>
+                  <l>The <hi>Lyon</hi> fierce, the <hi>Beuer, Roe,</hi> or <hi>Gray,</hi>
+                  </l>
+                  <l>The <hi>Hauke,</hi> the foule, the greater wrong the leſſe,</l>
+                  <l>The lofty proud, the lowly poore oppreſſe.</l>
+               </lg>
+               <lg>
+                  <head>For the Pike or Pearch.</head>
+                  <l>NOw for to take theſe kinde of Fiſh with all,</l>
+                  <l>It ſhalbe needfull to haue ſtill in ſtore,</l>
+                  <l>Some liuing baites as <hi>Bleiks,</hi> and <hi>Roches</hi> ſmall,</l>
+                  <l>
+                     <hi>Goodgion,</hi> or <hi>Loach,</hi> not taken long before,</l>
+                  <l>Or yealow <hi>Frogges</hi> that in the waters craule,</l>
+                  <l>But all aliue they muſt be euermore:</l>
+                  <l>For as for baites that dead and dull doe lye,</l>
+                  <l>They leaſt eſteeme and ſet but little by.</l>
+               </lg>
+               <pb facs="tcp:13919:20"/>
+               <lg>
+                  <l>But take good heed your line be ſure and ſtrong,</l>
+                  <l>The knots will knit, and of the ſoundeſt hayre,</l>
+                  <l>Twiſted with ſome well coloured ſilke among,</l>
+                  <l>And that you haue no neede your Rod to feare:</l>
+                  <l>For theſe great Fiſh will ſtriue and ſtruggle long,</l>
+                  <l>Rod, line, and all into the ſtreame to beare.</l>
+                  <l>And that your hooke be not too ſmall and weake,</l>
+                  <l>Leaſt that it chance to ſtretch, or hap to breake.</l>
+               </lg>
+               <lg>
+                  <l>And as in <hi>Arden</hi> or the mountaines hoare,</l>
+                  <l>Of <hi>Appemmie</hi> or craggy <hi>Alps</hi> among,</l>
+                  <l>The maſtifes fierce that hunt the briſtled Boare,</l>
+                  <l>Are harneſed with <hi>Curats</hi> light and ſtrong,</l>
+                  <l>So for theſe Fiſh, your line a foote or more,</l>
+                  <l>Muſt armed be with thinneſt plate along,</l>
+                  <l>Or ſlender wyre well faſtned thereunto,</l>
+                  <l>That will not ſlip nor eaſily vndoe.</l>
+               </lg>
+               <lg>
+                  <l>The other kinde that are vnlike to theſe</l>
+                  <l>Doe liue by corne or any other ſeede:</l>
+                  <l>Sometimes by crummes of bread, of paſte or cheeſe,</l>
+                  <l>Or graſſehoppers that in greene meadowes breed,</l>
+                  <l>With brood of waſpes, of hornets, doares or bees,</l>
+                  <l>Lip berries from the bryar buſh or weede,</l>
+                  <l>Bloud wormes, and ſnayles, or crauling Ientiles ſmall.</l>
+                  <l>And buzzing flies that on the waters fall.</l>
+               </lg>
+               <pb facs="tcp:13919:20"/>
+               <lg>
+                  <l>All theſe are good, and many others more,</l>
+                  <l>To make fit baites to take theſe kinde of Fiſh,</l>
+                  <l>So that ſome faire deepe place you feede before,</l>
+                  <l>A day or two, with paile, vvith bole, or diſh;</l>
+                  <l>And of theſe meats doe vſe to throw in ſtore,</l>
+                  <l>Then ſhall you haue them byte as you would wiſh:</l>
+                  <l>And ready ſport to take your pleaſure ſtill,</l>
+                  <l>Of any ſort that beſt you like to kill.</l>
+               </lg>
+               <lg>
+                  <l>Thus ſeruing them as often as you may,</l>
+                  <l>But once a weeke at leaſt it muſt be done,</l>
+                  <l>If that to bite they make too long delay,</l>
+                  <l>As by your ſport may be perceiued ſoone:</l>
+                  <l>Then ſome great Fiſh doth feare the reſt away,</l>
+                  <l>Whoſe fellowſhip and companie they ſhunne:</l>
+                  <l>Who neither in the bait doth take delight,</l>
+                  <l>Nor yet will ſuffer them that would to byte.</l>
+               </lg>
+               <lg>
+                  <l>For this you muſt a remedie prouide,</l>
+                  <l>Some <hi>Roche</hi> or <hi>Bleike,</hi> as I haue ſhew'd before,</l>
+                  <l>Beneath whoſe vpper fin you cloſe ſhall hide</l>
+                  <l>Of all your Hooke the better halfe and more,</l>
+                  <l>And though the point appeare or may be ſpide,</l>
+                  <l>It makes no matter any whit therefore:</l>
+                  <l>But let him fall into the watry brimme,</l>
+                  <l>And downe vnto the bottome ſoftly ſwimme.</l>
+               </lg>
+               <pb facs="tcp:13919:21"/>
+               <lg>
+                  <l>And when you ſee your Corke begin to moue,</l>
+                  <l>And round about to ſoare and fetch a ring,</l>
+                  <l>Sometime to ſinke, and ſometime ſwimme aboue,</l>
+                  <l>As doth the Ducke within the watty ſpring,</l>
+                  <l>Yet make no haſte your preſent hap to proue,</l>
+                  <l>Till with your float at laſt away hee fling,</l>
+                  <l>Then may you ſafely ſtrike and hold him ſhort,</l>
+                  <l>And at your will prolong or end your ſport.</l>
+               </lg>
+               <lg>
+                  <l>But euery Fiſh loues not each bayte alike,</l>
+                  <l>Although ſometime they feede vpon the ſame;</l>
+                  <l>But ſome doe one, and ſome another ſeeke,</l>
+                  <l>As beſt vnto their appetite doth frame,</l>
+                  <l>The <hi>Roche,</hi> the <hi>Bream,</hi> the <hi>Carpe,</hi> the <hi>Chub,</hi> and <hi>Bleik.</hi>
+                  </l>
+                  <l>With paſte or Corne their greedy hunger tame,</l>
+                  <l>The <hi>Dace,</hi> the <hi>Ruffe,</hi> the <hi>Goodgion</hi> and the reſt,</l>
+                  <l>The ſmaller ſort of crawling wormes loue beſt.</l>
+               </lg>
+               <lg>
+                  <l>The <hi>Chauender</hi> and <hi>Chub</hi> doe more delight</l>
+                  <l>To feede on tender Cheeſe, or Cherries red,</l>
+                  <l>Blacke ſnayles, their bellies ſlit to ſhew their white,</l>
+                  <l>Or Graſhoppers that skip in euery Meade;</l>
+                  <l>The <hi>Pearch,</hi> the <hi>Tench,</hi> and <hi>Eele,</hi> doe rather bite</l>
+                  <l>At great red wormes, in Field or Garden bred,</l>
+                  <l>That haue beene ſcowr'd in moſſe or Fenell rough,</l>
+                  <l>To rid their filth, and make them hard and tough.</l>
+               </lg>
+               <pb facs="tcp:13919:21"/>
+               <lg>
+                  <l>And with this bayte hath often taken bin</l>
+                  <l>The <hi>Salmon</hi> faire, of Riuer-fiſh the beſt;</l>
+                  <l>The <hi>Shad,</hi> that in the Spring time commeth in,</l>
+                  <l>The <hi>Suant</hi> ſwift, that is not ſet by leaſt,</l>
+                  <l>The <hi>Bocher</hi> ſweet, the pleaſant <hi>Flounder</hi> thin,</l>
+                  <l>The <hi>Peele,</hi> the <hi>Tweat,</hi> the <hi>Botling,</hi> and the reſt,</l>
+                  <l>With many more, that in the deepe doth lye</l>
+                  <l>Of <hi>Auon, Vske,</hi> of <hi>Seuerne,</hi> and of <hi>Wye.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Alike they bite, alike they pull downe low</l>
+                  <l>The ſinking Corke that ſtriues to riſe againe,</l>
+                  <l>And when they feele the ſudden deadly blow,</l>
+                  <l>Alike they ſhunne the danger and the paine:</l>
+                  <l>And as an arrow from the <hi>Scithian</hi> bow,</l>
+                  <l>All flee alike into the ſtreame amaine,</l>
+                  <l>Vntill the <hi>Angler</hi> by his wary skill,</l>
+                  <l>There tyres them out, and brings them vp at will.</l>
+               </lg>
+               <lg>
+                  <l>Yet furthermore it doth behoue to know,</l>
+                  <l>That for the moſt part Fiſh doe ſeeke their foode</l>
+                  <l>Vpon the ground, or deepeſt bottome low,</l>
+                  <l>Or at the top of water, ſtreame, or flood;</l>
+                  <l>And ſo you muſt your hooke and bayte beſtow,</l>
+                  <l>For in the midſt you ſhall doe little good,</l>
+                  <l>For heauie things downe to the bottom fall,</l>
+                  <l>And light doe ſwim, and ſeldome ſinke at all.</l>
+               </lg>
+               <pb facs="tcp:13919:22"/>
+               <lg>
+                  <l>All Summer long aloft the Fiſhes ſwimme,</l>
+                  <l>Delighted with faire <hi>Phoebus</hi> ſhining ray,</l>
+                  <l>And lye in wayte within the waters dimme</l>
+                  <l>For flyes and gnats that on the top doe play,</l>
+                  <l>Then halfe a yard beneath the vpper brimme</l>
+                  <l>It ſhall be beſt your bayted Hooke to lay,</l>
+                  <l>With gnat or flye of any ſort or kinde,</l>
+                  <l>That euery Moneth on Leaues or Trees you finde.</l>
+               </lg>
+               <lg>
+                  <l>But then your Line muſt haue no Lead at all,</l>
+                  <l>And but a ſlender Corke, or little Quill,</l>
+                  <l>To ſtay the bayte that downe it doe not fall,</l>
+                  <l>But hang a Linke within the water ſtill,</l>
+                  <l>Or elſe vpon the top thereof you ſhall</l>
+                  <l>With quicker hand, and with more ready skill</l>
+                  <l>Let fall your flye, and now and then remoue,</l>
+                  <l>Which ſoone the Fiſh will finde and better loue.</l>
+               </lg>
+               <lg>
+                  <l>And in the ſtreame likewiſe they vſe to be</l>
+                  <l>At tailes of floudyates, or at Arches wide;</l>
+                  <l>Or ſhallow flats, whereas the waters free</l>
+                  <l>With freſher ſprings and ſwifter courſe doe ſlide:</l>
+                  <l>And then of Waſpe, the brood that cannot flye</l>
+                  <l>Vpon a Tyle-ſtone firſt a little dryed,</l>
+                  <l>Or yealow bobs turnd vp before the Plough,</l>
+                  <l>Are chiefeſt bayts, with Corke and Lead enough.</l>
+               </lg>
+               <pb facs="tcp:13919:22"/>
+               <lg>
+                  <l>But when the golden Chariot of the Sunne,</l>
+                  <l>Departing from our Northren countries farre</l>
+                  <l>Beyond the ballance, now his courſe hath runne,</l>
+                  <l>And goes to warme the cold <hi>Antartic<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan>
+                     </hi> ſtarre,</l>
+                  <l>And Summers heat is almoſt ſpent and done,</l>
+                  <l>With new approch of Winters dreadfull warre:</l>
+                  <l>Then doe the Fiſh withdraw into the deepe,</l>
+                  <l>And low from ſight and cold more cloſe doe keepe.</l>
+               </lg>
+               <lg>
+                  <l>Then on your Lines you may haue ſtore of Lead,</l>
+                  <l>And bigger Corkes of any ſize you will,</l>
+                  <l>And where the Fiſh are vſed to be fed</l>
+                  <l>There ſhall you lay vpon the bottom ſtill,</l>
+                  <l>And whether that your bayte be Corne, or bread,</l>
+                  <l>Or Wormes, or Paſte, it doth not greatly skill,</l>
+                  <l>For theſe alone are to be vſed then,</l>
+                  <l>Vntill the ſpring or ſummer come againe.</l>
+               </lg>
+               <lg>
+                  <l>Thus haue I ſhew'd how Fiſh of diuers kinde</l>
+                  <l>Beſt taken are, and how their bayts to know;</l>
+                  <l>But <hi>Phoebus</hi> now beyond the Weſterne <hi>Inde;</hi>
+                  </l>
+                  <l>Beginneth to deſcend and draweth low,</l>
+                  <l>And well the weather ſerues and gentle winde</l>
+                  <l>Downe with the tide and pleaſant ſtreame to row,</l>
+                  <l>Vnto ſome place where we may reſt vs in,</l>
+                  <l>Vntill we ſhall another time begin.</l>
+               </lg>
+               <trailer>The end of the ſecond Booke.</trailer>
+            </div>
+            <div n="3" type="book">
+               <pb facs="tcp:13919:23"/>
+               <pb facs="tcp:13919:23"/>
+               <head>The third Booke.</head>
+               <lg>
+                  <l>
+                     <seg rend="decorInit">N</seg>Ow fals it out in order to declare,</l>
+                  <l>What time is beſt to <hi>Angle</hi> in aright;</l>
+                  <l>And when the chiefe and fitteſt ſeaſons are</l>
+                  <l>Wherein the fiſh are moſt diſpos'd to bite,</l>
+                  <l>What winde doth make, and which againe doth marre</l>
+                  <l>The <hi>Anglers</hi> ſport, wherein he takes delight,</l>
+                  <l>And how he may with pleaſure beſt aſpire,</l>
+                  <l>Vnto the wiſhed end of his deſire.</l>
+               </lg>
+               <lg>
+                  <l>For there are times in which they will not bite,</l>
+                  <l>But doe forbeare and from their food refraine,</l>
+                  <l>And dayes there are wherein they more delight</l>
+                  <l>To labour for the ſame and bite amaine;</l>
+                  <l>So, he that can thoſe ſeaſons finde aright</l>
+                  <l>Shall not repent his trauell ſpent in vaine,</l>
+                  <l>To walke a mile or two amidſt the fields,</l>
+                  <l>Reaping the fruit this harmleſſe pleaſure yeelds.</l>
+               </lg>
+               <pb facs="tcp:13919:24"/>
+               <lg>
+                  <l>And as a ſhip in ſafe and quiet roade</l>
+                  <l>Vnder ſome hill or harbour doth abide,</l>
+                  <l>With all her fraight, her tackling, and her load,</l>
+                  <l>Attending ſtill the winde and wiſhed tide,</l>
+                  <l>Which when it ſerues, no longer makes aboad,</l>
+                  <l>But forth into the watry deepe doth ſlide,</l>
+                  <l>And through the waues deuides her faireſt way</l>
+                  <l>Vnto the place where ſhe intends to ſtay.</l>
+               </lg>
+               <lg>
+                  <l>So muſt the <hi>Angler</hi> be prouided ſtill,</l>
+                  <l>Of diuers tooles, and ſundry baytes in ſtore;</l>
+                  <l>And all things elſe pertaining to his skill,</l>
+                  <l>Which he ſhall get and lay vp long before,</l>
+                  <l>That when the weather frameth to his will,</l>
+                  <l>Hee may be well appointed euermore</l>
+                  <l>To take fit time when it is offered euer,</l>
+                  <l>For time in one eſtate abideth neuer.</l>
+               </lg>
+               <lg>
+                  <head>The qualities of an Angler.</head>
+                  <l>BVt ere I further goe, it ſhall behoue</l>
+                  <l>To ſhew what gifts and qualities of minde</l>
+                  <l>Belongs to him that doth this paſtime loue;</l>
+                  <l>And what the vertues are of euery kinde</l>
+                  <l>Without the which it were in vaine to proue,</l>
+                  <l>Or to expect the pleaſure he ſhould finde,</l>
+                  <l>No more then he that hauing ſtore of meate</l>
+                  <l>Hath loſt all luſt and appetite to eate.</l>
+               </lg>
+               <pb facs="tcp:13919:24"/>
+               <lg>
+                  <l>For what auailes to Brooke or Lake to goe,</l>
+                  <l>With handſome Rods and Hookes of diuers ſort,</l>
+                  <l>Well twiſted Lines, and many trinkets moe,</l>
+                  <l>To finde the Fiſh within their watry fort,</l>
+                  <l>If that the minde be not contended ſo,</l>
+                  <l>But wants thoſe gifts that ſhould the reſt ſupport.</l>
+                  <l>And make his pleaſure to his thoughts agree,</l>
+                  <l>With theſe therefore he muſt endued be.</l>
+               </lg>
+               <lg>
+                  <l>The firſt is Faith, not wauering and vnſtable,</l>
+                  <l>But ſuch as had that holy <hi>Patriarch</hi> old,</l>
+                  <l>That to the higheſt was ſo acceptable</l>
+                  <l>As his increaſe and of-ſpring manifolde</l>
+                  <l>Exceeded far the ſtarres innumerable,</l>
+                  <l>So muſt he ſtill a firme perſwaſion holde,</l>
+                  <l>That where as waters, brookes, and lakes are found,</l>
+                  <l>There ſtore of Fiſh without all doubt abound.</l>
+               </lg>
+               <lg>
+                  <l>For nature that hath made no emptie thing,</l>
+                  <l>But all her workes doth well and wiſely frame,</l>
+                  <l>Hath fild each Brooke, each Riuer, Lake and Spring</l>
+                  <l>With creatures, apt to liue amidſt the ſame;</l>
+                  <l>Euen as the earth, the ayre, and ſeas doe bring</l>
+                  <l>Forth Beaſts, and Birds of ſundry ſort and name,</l>
+                  <l>And giuen them ſhape, ability, and ſence,</l>
+                  <l>To liue and dwell therein without offence.</l>
+               </lg>
+               <pb facs="tcp:13919:25"/>
+               <lg>
+                  <l>The ſecond gift and qualitie is Hope,</l>
+                  <l>The Anchor-holde of euery hard deſire;</l>
+                  <l>That hauing of the day ſo large a ſcope,</l>
+                  <l>He ſhall in time to wiſhed hap aſpire,</l>
+                  <l>And ere the Sunne hath left the heau'nly cope</l>
+                  <l>Obtaine the ſport and game he doth deſire,</l>
+                  <l>And that the Fiſh though ſometime ſlow to bite,</l>
+                  <l>Will recompence delay with more delight.</l>
+               </lg>
+               <lg>
+                  <l>The third is Loue, and liking to the game,</l>
+                  <l>And to his friend and neighbour dwelling by;</l>
+                  <l>For greedy pleaſure not to ſpoile the ſame,</l>
+                  <l>Nor of his Fiſh ſome portion to deny</l>
+                  <l>To any that are ſicklie, weake, or lame,</l>
+                  <l>But rather with his Line and Angle try</l>
+                  <l>In Pond or Brooke, to doe what in him lyes,</l>
+                  <l>To take ſuch ſtore for them as may ſuffice.</l>
+               </lg>
+               <lg>
+                  <l>Then followeth Patience, that the furious flame</l>
+                  <l>Of Choller cooles, and Paſſion puts to flight,</l>
+                  <l>As doth a skilfull rider breake and tame,</l>
+                  <l>The Courſer wilde, and teach him tread aright:</l>
+                  <l>So patience doth the minde diſpoſe and frame,</l>
+                  <l>To take miſhaps in worth, and count them light,</l>
+                  <l>As loſſe of Fiſh, Line, Hooke, or Lead, or all,</l>
+                  <l>Or other chance that often may befall.</l>
+               </lg>
+               <pb facs="tcp:13919:25"/>
+               <lg>
+                  <l>The fiſt good guift is low Humilitie,</l>
+                  <l>As when a Lyon coucheth for his pray</l>
+                  <l>So muſt he ſtoope or kneele vpon his knee,</l>
+                  <l>To ſaue his line or put the weedes away,</l>
+                  <l>Or lye along ſometime if neede there be,</l>
+                  <l>For any let or chance that happen may,</l>
+                  <l>And not to ſcorne to take a little paine,</l>
+                  <l>To ſerue his turne his pleaſure to obtaine.</l>
+               </lg>
+               <lg>
+                  <l>The ſixt is painefull ſtrength and courage good,</l>
+                  <l>The greateſt to incounter in the Brooke,</l>
+                  <l>If that he happen in his angry mood,</l>
+                  <l>To ſnatch your bayte, and beare away your Hooke</l>
+                  <l>With wary skill to rule him in the Flood,</l>
+                  <l>Vntill more quiet, tame, and milde he looke,</l>
+                  <l>And all aduentures conſtantly to beare,</l>
+                  <l>That may betide without miſtruſt or feare.</l>
+               </lg>
+               <lg>
+                  <l>Next vnto this is Liberalitie,</l>
+                  <l>Feeding them oft with full and plenteous hand,</l>
+                  <l>Of all the reſt a needfull qualitie,</l>
+                  <l>To draw them neere the place where you will ſtand,</l>
+                  <l>Like to the ancient hoſpitalitie,</l>
+                  <l>That ſometime dwelt in <hi>Albions</hi> fertile land,</l>
+                  <l>But now is ſent away into exile,</l>
+                  <l>Beyond the bounds of <hi>Iſſabellas</hi> Ile,</l>
+               </lg>
+               <pb facs="tcp:13919:26"/>
+               <lg>
+                  <l>The eight is knowledge how to finde the way</l>
+                  <l>To make them bite when they are dull and ſlow,</l>
+                  <l>And what doth let the ſame and breedes delay,</l>
+                  <l>And euery like impediment to know,</l>
+                  <l>That keepes them from their foode and wanted pray,</l>
+                  <l>Within the ſtreame, or ſtanding waters low,</l>
+                  <l>And with experience skilfully to proue,</l>
+                  <l>All other faults to mend or to remoue.</l>
+               </lg>
+               <lg>
+                  <l>The ninth is placabillitie of minde,</l>
+                  <l>Contented with a reaſonable diſh,</l>
+                  <l>Yea though ſometimes no ſport at all he finde,</l>
+                  <l>Or that the weather proue not to his wiſh.</l>
+                  <l>The tenth is thankes to that God, of each kinde,</l>
+                  <l>To net and bayt doth ſend both foule and Fiſh,</l>
+                  <l>And ſtill reſerue inough in ſecret ſtore,</l>
+                  <l>To pleaſe the rich, and to relieue the poore.</l>
+               </lg>
+               <lg>
+                  <l>Th' eleauenth good guift and hardeſt to indure,</l>
+                  <l>Is faſting long from all ſuperfluous fare,</l>
+                  <l>Vnto the which he muſt himſelfe inure,</l>
+                  <l>By exerciſe and vſe of dyet ſpare,</l>
+                  <l>And with the liquor of the waters pure,</l>
+                  <l>Acquaint himſelfe if he cannot forbeare,</l>
+                  <l>And neuer on his greedy belly thinke,</l>
+                  <l>From riſing ſunne vntill a low he ſincke.</l>
+               </lg>
+               <pb facs="tcp:13919:26"/>
+               <lg>
+                  <l>The twelth and laſt of all is memory,</l>
+                  <l>Remembring well before he ſetteth out,</l>
+                  <l>Each needfull thing that he muſt occupy,</l>
+                  <l>And not to ſtand of any want in doubt,</l>
+                  <l>Or leaue ſomething behinde forgetfully:</l>
+                  <l>When he hath walkt the fields and brokes about,</l>
+                  <l>It were a griefe backe to returne againe,</l>
+                  <l>For things forgot that ſhould his ſport maintaine.</l>
+               </lg>
+               <lg>
+                  <l>Here then you ſee what kinde of quallities,</l>
+                  <l>An <hi>Angler</hi> ſhould indued be with all,</l>
+                  <l>Beſides his skill and other properties,</l>
+                  <l>To ſerue his turne, as to his lot doth fall:</l>
+                  <l>But now what ſeaſon for this exerciſe,</l>
+                  <l>The fitteſt is and which doth ſerue but ſmall,</l>
+                  <l>My Muſe vouchſafe ſome little ayd to lend,</l>
+                  <l>To bring this alſo to the wiſhed end.</l>
+               </lg>
+               <lg>
+                  <head>Seaſon and time not to Angle.</head>
+                  <l>FIrſt, if the weather be to dry and hot,</l>
+                  <l>And ſcalds with ſcorching heate the lowly plaine,</l>
+                  <l>As if that youthfull <hi>Phaeton</hi> had got,</l>
+                  <l>The guiding of his fathers Carte againe,</l>
+                  <l>Or that it ſeem'd <hi>Apolle</hi> had forgot</l>
+                  <l>His light foote ſteedes to rule with ſtedfaſt raine,</l>
+                  <l>It is not good with any line or Hooke,</l>
+                  <l>To Angle then in riuer, pond, or brooke.</l>
+               </lg>
+               <pb facs="tcp:13919:27"/>
+               <lg>
+                  <l>Or When cold <hi>Boreas</hi> with his froſty beard,</l>
+                  <l>Lookes out from vnderneath the leſſer beare,</l>
+                  <l>And makes the weary trauailer afeard,</l>
+                  <l>To ſee the valleys couered euery where</l>
+                  <l>With Ice and Snow, that late ſo greene appear'd,</l>
+                  <l>The waters ſtand as if of ſteele they weare:</l>
+                  <l>And hoary froſts doe hange on euery bough,</l>
+                  <l>Where freſheſt leaues of ſummer late did grow.</l>
+               </lg>
+               <lg>
+                  <l>So neither if <hi>Don Aeolus</hi> lets goe,</l>
+                  <l>His bluſtring windes out of the hollow deepe,</l>
+                  <l>Where he their ſtrife and ſtrugling to and fro</l>
+                  <l>With triple forke doth ſtill in order keepe,</l>
+                  <l>They ruſhing forth doe rage with tempeſts ſo,</l>
+                  <l>As if they would the world togither ſweepe,</l>
+                  <l>And ruffling ſo with ſturdy blaſts they blow,</l>
+                  <l>That tree and houſe ſometimes they ouer throw.</l>
+               </lg>
+               <lg>
+                  <l>Beſides when ſhepheards and the ſwaines prepare,</l>
+                  <l>Vnto the brookes with all their flockes of ſheepe,</l>
+                  <l>To waſh their fleeces and to make them faire,</l>
+                  <l>In euery poole and running water deepe,</l>
+                  <l>The ſauour of the wooll doth ſo impaire,</l>
+                  <l>The pleaſant ſtreames, and plunging that they keepe,</l>
+                  <l>As if that <hi>Lethe</hi>-floud ran euery where,</l>
+                  <l>Or bitter <hi>Doris</hi> intermingled were.</l>
+               </lg>
+               <pb facs="tcp:13919:27"/>
+               <lg>
+                  <l>Or when land flouds through long and ſudden raine,</l>
+                  <l>Diſcending from the hills and higher ground,</l>
+                  <l>The ſand and mud the chriſtall ſtreames doe ſtaine,</l>
+                  <l>And make them riſe aboue their wonted bound,</l>
+                  <l>To ouer flow the fields and neighbour plaine,</l>
+                  <l>The fruitfull ſoyle and Meadowes faire are drownd,</l>
+                  <l>The husbandman doth leeſe his graſſe and hay,</l>
+                  <l>The bankes their trees, and bridges borne away.</l>
+               </lg>
+               <lg>
+                  <l>So when the leaues begin to fall apace,</l>
+                  <l>And bough and braunch are naked to be ſeene,</l>
+                  <l>While nature doth her former worke deface,</l>
+                  <l>Vnclothing buſh, and tree, of ſummers greene,</l>
+                  <l>Whoſe ſcattered ſpoiles lye thicke in euery place,</l>
+                  <l>As ſands on ſhore or ſtarres the poles betweene,</l>
+                  <l>And top and bottome of the riuers fill,</l>
+                  <l>To Angle then I alſo thinke it ill.</l>
+               </lg>
+               <lg>
+                  <l>All windes are hurtfull if too hard they blow,</l>
+                  <l>The worſt of all is that out of the Eaſt,</l>
+                  <l>Whoſe nature makes the Fiſh to biting ſlow,</l>
+                  <l>And lets the paſtime moſt of all the reſt,</l>
+                  <l>The next that comes from countries clad with Snow,</l>
+                  <l>And <hi>Artic<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan>
+                     </hi> pole is not offenſiue leaſt,</l>
+                  <l>The Southern winde is counted beſt of all,</l>
+                  <l>Then, that which riſeth where the ſunne doth fall.</l>
+               </lg>
+               <pb facs="tcp:13919:28"/>
+               <lg>
+                  <head>Beſt times and ſeaſon to Angle.</head>
+                  <l>BVt if the weather ſtedfaſt be and cleare,</l>
+                  <l>Or ouercaſt with clouds, ſo it be dry,</l>
+                  <l>And that no ſigne nor token there appeare,</l>
+                  <l>Of threatning ſtorme through all the empty skie,</l>
+                  <l>But that the ayre is clame and voide of feare,</l>
+                  <l>Of rufling windes or raging tempeſts hie,</l>
+                  <l>Or that with milde and gentle gale they blow,</l>
+                  <l>Then is it good vnto the brooke to goe,</l>
+               </lg>
+               <lg>
+                  <l>And when the flouds are fall'n and paſt away,</l>
+                  <l>And caried haue the dregges into the deepe,</l>
+                  <l>And that the waters waxe more thin and gray,</l>
+                  <l>And leaue their bankes aboue them high and ſteepe,</l>
+                  <l>The milder ſtreame of colour like to whay,</l>
+                  <l>Within his bounds his wonted courſe doth keepe,</l>
+                  <l>And that the wind is South or elſe by-Weſt,</l>
+                  <l>To Angle then is time and ſeaſons beſt</l>
+               </lg>
+               <lg>
+                  <l>When faire <hi>Aurora</hi> riſing early ſhewes</l>
+                  <l>Her bluſhing face beyond the Eaſterne hils,</l>
+                  <l>And dyes the heauenly vault with purple rewes,</l>
+                  <l>That far abroad the world with brightnes fils,</l>
+                  <l>The Meadowes greene are hoare with ſiluer dewes,</l>
+                  <l>That on the earth the ſable night diſtills,</l>
+                  <l>And chanting birds with merry notes bewray,</l>
+                  <l>The neere approaching of the chearefull day.</l>
+               </lg>
+               <pb facs="tcp:13919:28"/>
+               <lg>
+                  <l>Then let him goe to Riuer, Brooke, or Lake,</l>
+                  <l>That loues the ſport, where ſtore of Fiſh abound,</l>
+                  <l>And through the pleaſant fields his iourney make,</l>
+                  <l>Amid'ſt ſweet Paſtures, Meadowes freſh and ſound,</l>
+                  <l>Where he may beſt his choice of paſtime take,</l>
+                  <l>While ſwift <hi>Hyperion</hi> runnes his circle round;</l>
+                  <l>And as the place ſhall to his liking proue,</l>
+                  <l>There ſtill remaine or further elſe remoue.</l>
+               </lg>
+               <lg>
+                  <head>To know each Fiſhes haunt.</head>
+                  <l>NOw that the <hi>Angler</hi> may the better know</l>
+                  <l>Where he may finde each Fiſh he doth require,</l>
+                  <l>Since ſome delight in waters ſtill and ſlow,</l>
+                  <l>And ſome doe loue the Mud and ſlimy mire;</l>
+                  <l>Some others where the ſtreame doth ſwifter flow,</l>
+                  <l>Some ſtony ground, and grauell ſome deſire,</l>
+                  <l>Here ſhall he learne how euery ſort doe ſeeke,</l>
+                  <l>To haunt the Layre that doth his nature like.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Carpe, Eele,</hi> and <hi>Tench,</hi> doe loue a muddie ground,</l>
+                  <l>
+                     <hi>Eeles</hi> vnder ſtones or hollow rootes doe lye;</l>
+                  <l>The <hi>Tench</hi> among thicke weedes is ſooneſt found,</l>
+                  <l>The fearefull <hi>Carpe</hi> into the deepe doth flie,</l>
+                  <l>
+                     <hi>Bream, Chub</hi> and <hi>Pike,</hi> where clay and ſand abound,</l>
+                  <l>
+                     <hi>Pike</hi> loues great pooles, and places full of frie:</l>
+                  <l>The <hi>Chub</hi> delights in ſtreame or ſhadie tree,</l>
+                  <l>And tender <hi>Breame</hi> in broadeſt lake to be.</l>
+               </lg>
+               <pb facs="tcp:13919:29"/>
+               <lg>
+                  <l>The <hi>Salmon</hi> ſwift the Riuers ſweet doth like,</l>
+                  <l>Where largeſt ſtreames into the Sea are led:</l>
+                  <l>The ſpotted <hi>Trout</hi> the ſmaller Brookes doth ſeeke,</l>
+                  <l>And in the deepeſt hole there hides his head:</l>
+                  <l>The prickled <hi>Pearch</hi> in euery hollow creeke,</l>
+                  <l>Hard by the banke, and ſandy ſhoare is fed.</l>
+                  <l>
+                     <hi>Pearch, Trout,</hi> and <hi>Salmon</hi> loue cleere waters all,</l>
+                  <l>Greene weedy rockes, and ſtony grauell ſmall.</l>
+               </lg>
+               <lg>
+                  <l>So doth the <hi>Bulhead, Goodgion,</hi> and the <hi>Loache,</hi>
+                  </l>
+                  <l>Who moſt in ſhallow Brookes delight to be,</l>
+                  <l>The <hi>Ruffe,</hi> the <hi>Dace,</hi> the <hi>Barbill</hi> and the <hi>Roach,</hi>
+                  </l>
+                  <l>Grauell and ſand doe loue in leſſe degree,</l>
+                  <l>But to the deepe and ſhade doe more approach,</l>
+                  <l>And ouerhead ſome couert loue to ſee,</l>
+                  <l>Of ſpreading <hi>Poplar,</hi> Oake or Willow greene,</l>
+                  <l>Where vnderneath they lurke for beeing ſeene.</l>
+               </lg>
+               <lg>
+                  <l>The mighty <hi>Luce</hi> great waters haunts alway,</l>
+                  <l>And in the ſtilleſt place thereof doth lye,</l>
+                  <l>Saue when he raungeth foorth to ſeeke his pray,</l>
+                  <l>And ſwift among the feerefull fiſh doth flye,</l>
+                  <l>The dainty <hi>Humber</hi> loues the marley clay,</l>
+                  <l>And cleereſt ſtreames of champion countrie hye,</l>
+                  <l>And in the chiefeſt pooles thereof doth reſt,</l>
+                  <l>Where he is ſooneſt found and taken beſt.</l>
+               </lg>
+               <pb facs="tcp:13919:29"/>
+               <lg>
+                  <l>The <hi>Chauender</hi> amidſt the waters fayre,</l>
+                  <l>In ſwifteſt ſtreames doth moſt himſelfe beſtow,</l>
+                  <l>The <hi>Shad</hi> and <hi>Tweat</hi> doe rather like the laire,</l>
+                  <l>Of brackiſh waues, where it doth ebbe and flow,</l>
+                  <l>And thither alſo doth the flocke repaire,</l>
+                  <l>And flat vpon the bottom lyeth low,</l>
+                  <l>The <hi>Peele,</hi> the <hi>Mullet</hi> and the <hi>Suant</hi> good</l>
+                  <l>Doe like the ſame, and therein ſeeke their food.</l>
+               </lg>
+               <lg>
+                  <l>But here experience doth my skill exceed,</l>
+                  <l>Since diuers Countries diuers Riuers haue;</l>
+                  <l>And diuers Riuers change of waters breed,</l>
+                  <l>And change of waters ſundry Fiſh doth craue,</l>
+                  <l>And ſundry Fiſh in diuers places feede,</l>
+                  <l>As beſt doth like them in the liquid waue,</l>
+                  <l>So that by vſe and practiſe may be knowne,</l>
+                  <l>More then by art or skill can well be ſhowne.</l>
+               </lg>
+               <lg>
+                  <l>So then it ſhall be needleſſe to declare,</l>
+                  <l>What ſundry kindes there lie in ſecret ſtore,</l>
+                  <l>And where they doe reſort, and what they are,</l>
+                  <l>That may be ſtill diſcouered more and more:</l>
+                  <l>Let him that liſt no paine nor trauell ſpare</l>
+                  <l>To ſeeke them out, as I haue done before,</l>
+                  <l>And then it ſhall not diſcontent his minde,</l>
+                  <l>New choice of place, and change of game to find.</l>
+               </lg>
+               <pb facs="tcp:13919:30"/>
+               <lg>
+                  <head>The beſt houres of the day to Angle.</head>
+                  <l>FRom firſt appearing of the riſing Sunne,</l>
+                  <l>Till nine of clocke low vnder water beſt</l>
+                  <l>The Fiſh will bite, and then from nine to noone,</l>
+                  <l>From noone to foure they doe refraine and reſt,</l>
+                  <l>From foure againe till <hi>Phoebus</hi> ſwift hath runne,</l>
+                  <l>His daily courſe, and ſetteth in the Weſt:</l>
+                  <l>But at the flie aloft they vſe to bite,</l>
+                  <l>All ſummer long from nine till it be night.</l>
+               </lg>
+               <lg>
+                  <l>Now leaſt the <hi>Angler</hi> leaue his Tooles behinde,</l>
+                  <l>For lacke of heed or haſte of his deſire,</l>
+                  <l>And ſo inforced with vnwilling minde,</l>
+                  <l>Muſt leaue his game and backe againe retire,</l>
+                  <l>Such things to fetch as there he cannot finde</l>
+                  <l>To ſerue his turne when neede ſhall moſt require,</l>
+                  <l>Here ſhall he haue to helpe his memory,</l>
+                  <l>A leſſon ſhort of euery wants ſupply.</l>
+               </lg>
+               <lg>
+                  <l>Light Rod to ſtrike, long line to reach withall,</l>
+                  <l>Strong hooke to holde the fiſh he haps to hit,</l>
+                  <l>Spare Lines and Hookes, what euer chance doe fall,</l>
+                  <l>Baites quicke and dead to bring them to the bit,</l>
+                  <l>Fine Lead and Quils with Corks both great and ſmall,</l>
+                  <l>Knife, File and thred, and little Basket fit,</l>
+                  <l>Plummets to ſound the depth of clay and ſand,</l>
+                  <l>With Pole and Net to bring them ſafe to land.</l>
+               </lg>
+               <pb facs="tcp:13919:30"/>
+               <lg>
+                  <l>And now we are ariued at the laſt,</l>
+                  <l>In wiſhed harbour where we meane to reſt;</l>
+                  <l>And make an end of this our iourney paſt:</l>
+                  <l>Here then in quiet roade I thinke it beſt</l>
+                  <l>We ſtrike our ſailes and ſtedfaſt Anchor caſt</l>
+                  <l>For now the Sunne low ſetteth in the Weſt,</l>
+                  <l>And yee <hi>Boat-Swaines,</hi> a merry <hi>Carroll</hi> ſing,</l>
+                  <l>To him that ſafely did vs hither bring.</l>
+               </lg>
+               <trailer>FINIS.</trailer>
+            </div>
+            <div type="envoy">
+               <pb facs="tcp:13919:31"/>
+               <lg>
+                  <l>
+                     <hi>Wouldſt thou catch Fiſh?</hi>
+                  </l>
+                  <l>
+                     <hi>Then here's thy wiſh;</hi>
+                  </l>
+                  <l>
+                     <hi>Take this receipt,</hi>
+                  </l>
+                  <l>
+                     <hi>To annoynt thy Baite.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>THou that deſir'ſt to fiſh with Line and Hooke,</l>
+                  <l>Be it in poole, in Riuer, or in Brooke,</l>
+                  <l>To bliſſe thy baite, and make the Fiſh to bite:</l>
+                  <l>Loe, here's a meanes, if thou canſt hit it right,</l>
+                  <l>Take Gum of life, fine beat, and laid in ſoake</l>
+                  <l>In Oyle, well drawne from that which kils the Oake,</l>
+                  <l>Fiſh where thou wilt, thou ſhalt haue ſport thy fill,</l>
+                  <l>When twenty faile, thou ſhalt be ſure to kill.</l>
+               </lg>
+               <lg>
+                  <head>Probatum.</head>
+                  <l>
+                     <hi>It's perfect and good,</hi>
+                  </l>
+                  <l>
+                     <hi>If well vnderſtood;</hi>
+                  </l>
+                  <l>
+                     <hi>Elſe not to be tolde</hi>
+                  </l>
+                  <l>
+                     <hi>For Siluer or Golde.</hi>
+                  </l>
+               </lg>
+               <closer>
+                  <signed>B. R.</signed>
+               </closer>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:13919:31"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
